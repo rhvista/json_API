@@ -2,14 +2,14 @@
     {
         "park_id": "1",
         "name": "私",
-        "displayAddress1": "わたし",
+        "displayAddress": "わたし",
         "displayAddress2": "あなた",
         "displayAddress3": "１"
     },
     {
         "park_id": "2",
         "name": "車",
-        "displayAddress1": "でんしゃ",
+        "displayAddress": "でんしゃ",
         "displayAddress2": "くるま",
         "displayAddress3": "２"
     }
