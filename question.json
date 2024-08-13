@@ -1,4 +1,4 @@
-[
+{"results":[
     {
         "question_id": "1",
         "question": "蘋果的英文串法是",
@@ -13,4 +13,4 @@
         "choice2": "Banana",
         "correctAnswer": "２"
     }
-]
+]}
