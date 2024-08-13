@@ -1,0 +1,16 @@
+{"results":[
+    {
+        "question_id": "1",
+        "question": "蘋果的英文串法是",
+        "choice1": "Apple",
+        "choice2": "Orange",
+        "correctAnswer": "1"
+    },
+    {
+        "question_id": "2",
+        "question": "香蕉的英文串法是",
+        "choice1": "pineapple",
+        "choice2": "Banana",
+        "correctAnswer": "２"
+    }
+]}
