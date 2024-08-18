@@ -6,15 +6,28 @@
         "choice1": "Apple",
          "choice2_id": "2",
         "choice2": "Orange",
+        "choice1_id": "3",
+        "choice1": "pineapple",
+         "choice2_id": "4",
+        "choice2": "strawberry",
         "correctAnswer": "1"
     },
     {
         "question_id": "2",
-        "question": "請選出香蕉的正確英文串法",
+        "question": "以下那一位不是四大天王",
         "choice1_id": "1",
-        "choice1": "pineapple",
+        "choice1": "劉德華",
          "choice2_id": "2",
-        "choice2": "Banana",
-        "correctAnswer": "2"
+        "choice2": "黎明",
+        "choice1_id": "3",
+        "choice1": "李克勤",
+         "choice2_id": "4",
+        "choice2": "郭富城",
+        "correctAnswer": "3"
     }
+
+     
+
+
+    
 ]}
