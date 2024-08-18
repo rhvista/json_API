@@ -14,20 +14,6 @@
     },
     {
         "question_id": "2",
-        "question": "以下那一位不是四大天王",
-        "choice1_id": "choice1",
-        "choice1": "劉德華",
-         "choice2_id": "choice2",
-        "choice2": "黎明",
-        "choice3_id": "choice3",
-        "choice3": "李克勤",
-         "choice4_id": "choice4",
-        "choice4": "郭富城",
-        "correctAnswer": "choice3"
-    },
-
-     {
-        "question_id": "3",
         "question": "以下那一位是四大天王",
         "choice1_id": "choice1",
         "choice1": "劉德華",
@@ -38,6 +24,20 @@
          "choice4_id": "choice4",
         "choice4": "郭富城",
         "correctAnswer": "choice1choice2choice4"
+    },
+
+     {
+        "question_id": "3",
+        "question": "以下那一位不是四大天王",
+        "choice1_id": "choice1",
+        "choice1": "劉德華",
+         "choice2_id": "choice2",
+        "choice2": "黎明",
+        "choice3_id": "choice3",
+        "choice3": "李克勤",
+         "choice4_id": "choice4",
+        "choice4": "郭富城",
+        "correctAnswer": "choice3"
     }
    
 ]}
