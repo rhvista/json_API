@@ -27,7 +27,7 @@
     }
 
      {
-        "question_id": "2",
+        "question_id": "3",
         "question": "以下那一位不是四大天王",
         "choice1_id": "1",
         "choice1": "劉德華",
@@ -39,9 +39,5 @@
         "choice4": "郭富城",
         "correctAnswer": "3"
     }
-
-     
-
-
-    
+   
 ]}
