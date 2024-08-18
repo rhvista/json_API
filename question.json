@@ -2,42 +2,42 @@
     {
         "question_id": "1",
         "question": "請選出蘋果的正確英文串法",
-        "choice1_id": "1",
+        "choice1_id": "choice1",
         "choice1": "Apple",
-         "choice2_id": "2",
+         "choice2_id": "choice2",
         "choice2": "Orange",
-        "choice3_id": "3",
+        "choice3_id": "choice3",
         "choice3": "pineapple",
-         "choice4_id": "4",
+         "choice4_id": "choice4",
         "choice4": "strawberry",
-        "correctAnswer": "1"
+        "correctAnswer": "choice1"
     },
     {
         "question_id": "2",
         "question": "以下那一位不是四大天王",
-        "choice1_id": "1",
+        "choice1_id": "choice1",
         "choice1": "劉德華",
-         "choice2_id": "2",
+         "choice2_id": "choice2",
         "choice2": "黎明",
-        "choice3_id": "3",
+        "choice3_id": "choice3",
         "choice3": "李克勤",
-         "choice4_id": "4",
+         "choice4_id": "choice4",
         "choice4": "郭富城",
-        "correctAnswer": "3"
+        "correctAnswer": "choice3"
     },
 
      {
         "question_id": "3",
         "question": "以下那一位是四大天王",
-        "choice1_id": "1",
+        "choice1_id": "choice1",
         "choice1": "劉德華",
-         "choice2_id": "2",
+         "choice2_id": "choice2",
         "choice2": "黎明",
-        "choice3_id": "3",
+        "choice3_id": "choice3",
         "choice3": "李克勤",
-         "choice4_id": "4",
+         "choice4_id": "choice4",
         "choice4": "郭富城",
-        "correctAnswer": "3"
+        "correctAnswer": "choice1choice2choice4"
     }
    
 ]}
