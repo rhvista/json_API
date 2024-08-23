@@ -14,29 +14,29 @@
     },
     {
         "question_id": "2",
-        "question": "以下那一位是四大天王",
+        "question": "1+1 =",
         "choice1_id": "choice1",
-        "choice1": "劉德華",
+        "choice1": "1",
          "choice2_id": "choice2",
-        "choice2": "黎明",
+        "choice2": "2",
         "choice3_id": "choice3",
-        "choice3": "李克勤",
+        "choice3": "3",
          "choice4_id": "choice4",
-        "choice4": "郭富城",
+        "choice4": "4",
         "correctAnswer": "choice1choice2choice4"
     },
 
      {
         "question_id": "3",
-        "question": "以下那一位不是四大天王",
+        "question": "以下那一項是十二生肖",
         "choice1_id": "choice1",
-        "choice1": "劉德華",
+        "choice1": "狗",
          "choice2_id": "choice2",
-        "choice2": "黎明",
+        "choice2": "貓",
         "choice3_id": "choice3",
-        "choice3": "李克勤",
+        "choice3": "龍",
          "choice4_id": "choice4",
-        "choice4": "郭富城",
+        "choice4": "牛",
         "correctAnswer": "choice3"
     }
    
