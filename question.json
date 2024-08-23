@@ -23,7 +23,7 @@
         "choice3": "3",
          "choice4_id": "choice4",
         "choice4": "4",
-        "correctAnswer": "choice1choice2choice4"
+        "correctAnswer": "choice2"
     },
 
      {
@@ -37,7 +37,7 @@
         "choice3": "龍",
          "choice4_id": "choice4",
         "choice4": "牛",
-        "correctAnswer": "choice3"
+        "correctAnswer": "choice1choice3choice4"
     }
    
 ]}
