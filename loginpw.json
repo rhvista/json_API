@@ -1,10 +1,12 @@
 {"results":[
     {
-        "question": "P1",
-        "choice1_id": "choice1"       
-    },
-      {
-        "question": "P2",
-        "choice1_id": "choice2" 
+        "grading_1": "P1",
+        "grading_2": "P2",
+        "grading_3": "P3",
+        "grading_4": "P4",
+        "grading_5": "P5",
+        "grading_6": "P6",
+ 
     }
+
 ]}
