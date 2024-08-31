@@ -1,16 +1,43 @@
-{"results": [
+{"results":[
     {
-        "park_id": "1",
-        "name": "私",
-        "displayAddress": "わたし",
-        "displayAddress2": "あなた",
-        "displayAddress3": "１"
+        "question_id": "1",
+        "question": "Q1. 私",
+        "choice1_id": "choice1",
+        "choice1": "わたし",
+         "choice2_id": "choice2",
+        "choice2": "きみ",
+        "choice3_id": "choice3",
+        "choice3": "あなた",
+         "choice4_id": "choice4",
+        "choice4": "おれ",
+        "correctAnswer": "choice1"
     },
     {
-        "park_id": "2",
-        "name": "車",
-        "displayAddress": "でんしゃ",
-        "displayAddress2": "くるま",
-        "displayAddress3": "２"
+        "question_id": "2",
+        "question": "Q2. 1+1 =",
+        "choice1_id": "choice1",
+        "choice1": "1",
+         "choice2_id": "choice2",
+        "choice2": "2",
+        "choice3_id": "choice3",
+        "choice3": "3",
+         "choice4_id": "choice4",
+        "choice4": "4",
+        "correctAnswer": "choice2"
+    },
+
+     {
+        "question_id": "3",
+        "question": "Q3. 車",
+        "choice1_id": "choice1",
+        "choice1": "でんしゃ",
+         "choice2_id": "choice2",
+        "choice2": "くるま",
+        "choice3_id": "choice3",
+        "choice3": "バス",
+         "choice4_id": "choice4",
+        "choice4": "テクシー",
+        "correctAnswer": "choice3"
     }
+   
 ]}
