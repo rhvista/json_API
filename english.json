@@ -1,0 +1,893 @@
+["results":[
+    {
+        "question_id": "1",
+        "question": "在 SwiftUI 中的 VStack 有什麼用途?",
+        "choice1": "在 VStack 內的元件會打橫排列",
+        "choice2": "在 VStack 內的元件會打直排列",
+        "choice3": "在 VStack 內的元件會打斜排列",
+        "choice4": "在 VStack 內的元件會顯示文字",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "2",
+        "question": "在 Google Firebase Realtime Database 的免費計劃下最多可支援多少裝置同時連接?",
+        "choice1": "100",
+        "choice2": "300",
+        "choice3": "1000",
+        "choice4": "無限",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "3",
+        "question": "以下哪一個答案最適合形容 Open GL 功能?",
+        "choice1": "多媒體播放框架",
+        "choice2": "動畫特效框架",
+        "choice3": "圖像介面框架",
+        "choice4": "iOS 系統中的 3D 圖形 API",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "4",
+        "question": "以下哪一個是正確在 Swift 中定義一個函數?",
+        "choice1": "Func GreetingMsg( )",
+        "choice2": "Function GreetingMsg( )",
+        "choice3": "function GreetingMsg( )",
+        "choice4": "func GreetingMsg( )",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "5",
+        "question": "編寫 iOS App 需要學習以下哪些知識? (可選擇多項)",
+        "choice1": "學習使用 iOS 軟件開發套件 (Software Development Kit)",
+        "choice2": "學習 Swift 語言",
+        "choice3": "學習 Java 語言",
+        "choice4": "學習使用 Xcode",
+        "correctAnswer": "choice1choice2choice4"
+    },
+    {
+        "question_id": "6",
+        "question": "如要在 iOS 應用程式中加入 QRCode Scanner 應在 info.plist 加入什麼內容?",
+        "choice1": "Camera Usage Description",
+        "choice2": "Code Usage Description",
+        "choice3": "Photo Library Usage Description",
+        "choice4": "QRCode Usage Description",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "7",
+        "question": "以下哪種哪種 Apple 開發者計劃的收費模式?",
+        "choice1": "按日收費",
+        "choice2": "按月收費",
+        "choice3": "按年收費",
+        "choice4": "按秒收費",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "8",
+        "question": "建立一個新 Swift 檔, 要匯入什麼套件?",
+        "choice1": "import UIKit",
+        "choice2": "import AVFoundation",
+        "choice3": "import SwiftUI",
+        "choice4": "import Firebase",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "9",
+        "question": "要建立雲端備忘錄修改功能可使用以下哪個系統元件? (可選擇多項)",
+        "choice1": "Button",
+        "choice2": "TextField",
+        "choice3": "Text",
+        "choice4": "List",
+        "correctAnswer": "choice1choice2choice3choice4"
+    },
+    {
+        "question_id": "10",
+        "question": "要開發 iOS 原生應用程式可以支援以下哪種程式語言?  (可選擇多項)",
+        "choice1": "Java",
+        "choice2": "Kubernetes",
+        "choice3": "Ojective-C",
+        "choice4": "Swift",
+        "correctAnswer": "choice3choice4"
+    },
+    {
+        "question_id": "11",
+        "question": "以下哪一個是 Google Firebase Realtime Database 的用途?\n",
+        "choice1": "Google 的雲端資料庫, 透過 JSON 格式儲存資料並即時同步到所連線的用戶端",
+        "choice2": "Google 的雲端編程軟件, 透過網頁在雲端中進行即時編譯軟件的工作",
+        "choice3": "Google 的函式庫, 提供開發Google應用程式所需的資料",
+        "choice4": "Google 的雲端推送信息服務, 透過推送方式把雲端訊息發送到用戶端應用程式",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "12",
+        "question": "以下哪一個是 Xcode Project 中 Bundle Identifier 的用途?",
+        "choice1": "iOS App 專案名稱",
+        "choice2": "開發人員識別碼",
+        "choice3": "開發人員名稱",
+        "choice4": "iOS App 識別碼",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "13",
+        "question": "選擇一個答案最適合形容 Icon 的用途? ",
+        "choice1": "繪圖圖示元件",
+        "choice2": "圖片顯示元件",
+        "choice3": "影片顯示元件",
+        "choice4": "系統圖示顯示元件",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "14",
+        "question": "計算以下 a 的值: let constant = 30  var b = 30  var a = b + constant\n",
+        "choice1": "10",
+        "choice2": "30",
+        "choice3": "60",
+        "choice4": "80",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "15",
+        "question": "如需要定義一個沒有初始值的變數, 可以在變數後加上一個什麼字符?",
+        "choice1": "錢符號 ( $ )",
+        "choice2": "感嘆號( ! )",
+        "choice3": "2個問號 ( ?? )",
+        "choice4": "問號 ( ? )",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "16",
+        "question": "Xcode Playground 是什麼?",
+        "choice1": "電腦操作系統",
+        "choice2": "軟件開發的 API",
+        "choice3": "電腦遊樂場",
+        "choice4": "試驗 Swift 程式的互動試驗Swift 程式的互動開發環境",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "17",
+        "question": "以下哪種格式資料是 JSON 可以支援的? (可選擇多項)",
+        "choice1": "String",
+        "choice2": "Booleans",
+        "choice3": "Number",
+        "choice4": "Arrary",
+        "correctAnswer": "choice1choice2choice3choice4"
+    },
+    {
+        "question_id": "18",
+        "question": "以下哪一款 SwiftUI 元件可以建立按鈕?",
+        "choice1": "Hstack",
+        "choice2": "TextField",
+        "choice3": "Button",
+        "choice4": "Vstack",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "19",
+        "question": "以下哪一個不是 iOS 分層式架構中的內容?",
+        "choice1": "核心服務層 (Core Service layer)",
+        "choice2": "觸控應用層 (Cocoa Touch layout)",
+        "choice3": "Linux 核心層 (Linux Kernel)",
+        "choice4": "媒體層 (Media layout)",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "20",
+        "question": "JSON 的英文全寫是什麼?",
+        "choice1": "Java Object Node",
+        "choice2": "JavaScript Object Notation",
+        "choice3": "JavaScript Oriented Notation",
+        "choice4": "JavaScript Structured Object Notation",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "21",
+        "question": "在 SwiftUI 中的 HStack 有什麼用途?",
+        "choice1": "在 HStack 內的元件會打橫排列",
+        "choice2": "在 HStack 內的元件會打斜排列",
+        "choice3": "在 HStack 內的元件會顯示文字",
+        "choice4": "在 HStack 內的元件會打直排列",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "22",
+        "question": "選擇一個答案最適合形容 GridLayout 的用途? ",
+        "choice1": "方格顯示 UI 元件",
+        "choice2": "卡片顯示 UI 元件",
+        "choice3": "網格顯示 UI 元件",
+        "choice4": "排列顯示元件",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "23",
+        "question": "在 Google Firebase Realtime Database 下 setValue( ) 支援以下哪種資料格式? (可選擇多項)",
+        "choice1": "Number",
+        "choice2": "Binary",
+        "choice3": "String",
+        "choice4": "Dictionary",
+        "correctAnswer": "choice1choice2choice3choice4"
+    },
+    {
+        "question_id": "24",
+        "question": "選擇一個答案最適合形容 Tab 的用途?",
+        "choice1": "切換頁面元件",
+        "choice2": "頁面篩選元件",
+        "choice3": "頁面分頁元件",
+        "choice4": "多頁選擇元件",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "25",
+        "question": "以下哪個是 Swift function uppercased( ) 的用途?",
+        "choice1": "轉換字串成亞拉伯數字",
+        "choice2": "轉換字串成圖像",
+        "choice3": "轉換字串成細寫",
+        "choice4": "轉換字串成大寫",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "26",
+        "question": "以下哪一項元件可以在應用程式介面中建立 FAB (Floating Action Button)?",
+        "choice1": "Button",
+        "choice2": "Alert",
+        "choice3": "CheckBox",
+        "choice4": "Text",
+        "correctAnswer": "choice1choice4"
+    },
+    {
+        "question_id": "27",
+        "question": "使用下哪一個元件可以在應用程式中播放音效?",
+        "choice1": "AudioPlayer",
+        "choice2": "AVAudioPlayback",
+        "choice3": "AVAudioPlayer",
+        "choice4": "MediaPlayer",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "28",
+        "question": "以下哪個是 User’s Favorite 的用途?",
+        "choice1": "輸入控制元件",
+        "choice2": "搜尋功能",
+        "choice3": "記錄使用者的最愛功能",
+        "choice4": "多項選擇元件",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "29",
+        "question": "在 Google Firebase Realtime Database 是使用什麼格式儲存資料?",
+        "choice1": "TXT",
+        "choice2": "XML",
+        "choice3": "JSON",
+        "choice4": "SQL",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "30",
+        "question": "以下哪個是 iPhone 模擬器可執行的功能?\n*",
+        "choice1": "超過2個手指的觸摸的多點觸摸",
+        "choice2": "顯示圖畫",
+        "choice3": "使用4G網路",
+        "choice4": "使用GPS定位",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "31",
+        "question": "以下哪一種是 Swift function count( ) 的用途?",
+        "choice1": "獲取字串總長度",
+        "choice2": "計算變數的總和",
+        "choice3": "轉換字串成大寫",
+        "choice4": "計算單一字母的總長度",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "32",
+        "question": "如要發佈一個新的 App 到 App Store, 以下哪一個步驟是不正確的?",
+        "choice1": "加入 Apple 開發者計劃",
+        "choice2": "直接上載 App 到 App Store",
+        "choice3": "上載 App 到開發者的帳號並填寫 App 的資料",
+        "choice4": "測試 App 程式的穩定",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "33",
+        "question": "如要申請加入 Apple 開發者計劃中的個人開發者需要多少費用?",
+        "choice1": "美金$99",
+        "choice2": "港幣$99",
+        "choice3": "免費",
+        "choice4": "美金$199",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "34",
+        "question": "以下哪個是 NavigationLink 的用途?",
+        "choice1": "切換頁面元件",
+        "choice2": "導覽連結元件",
+        "choice3": "頁面分頁元件",
+        "choice4": "互聯網連接元件",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "35",
+        "question": "以下哪一個 function 是格式化日期顯示模式? (可選擇多項)",
+        "choice1": "使用 DateFormatter( ) 的 timeStyle 進行格式化",
+        "choice2": "使用 DateFormatter( ) 的 datetimeStyle 進行格式化",
+        "choice3": "使用 DateFormatter( ) 的 dateStyle 進行格式化",
+        "choice4": "使用 DateFormatter( ) 的 dateFormat 進行格式化",
+        "correctAnswer": "choice3choice4"
+    },
+    {
+        "question_id": "36",
+        "question": "以下哪個設計會員系統時需要考慮的因素?",
+        "choice1": "系統有會員登入功能",
+        "choice2": "系統有會員註冊功能",
+        "choice3": "不會過度收集個人資料",
+        "choice4": "以上皆是",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "37",
+        "question": "如要在 iOS 應用程式中加入 QRCode Scanner 需要使用哪個框架?",
+        "choice1": "AVFoundation",
+        "choice2": "Framework",
+        "choice3": "Graphics",
+        "choice4": "AMFoundation",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "38",
+        "question": "選擇一個答案最適合形容 Toggle 的用途?",
+        "choice1": "開關控制元件",
+        "choice2": "輸出控制元件",
+        "choice3": "輸入控制元件",
+        "choice4": "提示對話框元件",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "39",
+        "question": "如何在字串中包含數字?",
+        "choice1": "加號 ( + )",
+        "choice2": "字符串插值 ( / )",
+        "choice3": "點 ( . )",
+        "choice4": "問號 ( ? )",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "40",
+        "question": "以下哪一項最適合形容 Google Firebase 的用途?",
+        "choice1": "Firebase 是軟件開發編程軟件",
+        "choice2": "Firebase 是雲端開發平台, 協助應用程式開發者在雲端快速建構後台服務系統",
+        "choice3": "Firebase 是一個網絡繪圖軟件",
+        "choice4": "Firebase 是一個網頁伺服器軟件",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "41",
+        "question": "以下哪一個是正確顯示結果的 dateFormat 設定? 2023/12/22 20:30:50",
+        "choice1": "YYYY-MM-dd HH:mm:ss",
+        "choice2": "YYYY/MM/dd HH:mm",
+        "choice3": "dd/MM/YYYY HH:mm:ss",
+        "choice4": "YYYY/MM/dd HH:mm:ss",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "42",
+        "question": "使用下哪一個元件能夠在應用程式中加入動畫?",
+        "choice1": ".animate",
+        "choice2": ".animatePlayer",
+        "choice3": ".animation",
+        "choice4": ".animation",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "43",
+        "question": "選擇一個答案最適合形容 List 的用途? ",
+        "choice1": "排列顯示元件",
+        "choice2": "清單顯示元件",
+        "choice3": "卡片顯示元件",
+        "choice4": "多行顯示元件",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "44",
+        "question": "透過以下哪一種方式可以測試 iOS App ?   (可選擇多項)",
+        "choice1": "Android Studio",
+        "choice2": "iOS 模擬器",
+        "choice3": "iOS 實體手機",
+        "choice4": "Xcode Live Preview",
+        "correctAnswer": "choice2choice3choice4"
+    },
+    {
+        "question_id": "45",
+        "question": "在 Swift 程式中, 關鍵字 let 有什麼用途?",
+        "choice1": "定義程式基本數",
+        "choice2": "定義程式代數",
+        "choice3": "定義程式變數",
+        "choice4": "定義程式常數",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "46",
+        "question": "如要在應用程式內進行本機儲存資料可以使用哪個 Swift 功能?",
+        "choice1": "Realtime Database",
+        "choice2": "LocalStorage",
+        "choice3": "SQL",
+        "choice4": "UserDefault",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "47",
+        "question": "以下哪一個是 Date Picker 的用途?",
+        "choice1": "多項選擇器元件",
+        "choice2": "應用程式中的按鈕",
+        "choice3": "日期時間選擇器元件",
+        "choice4": "讓使用者輸入文字的方格",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "48",
+        "question": "以下哪個是 JSON 的用途?",
+        "choice1": "跨平台資料交換語言",
+        "choice2": "伺服器資料儲存語言",
+        "choice3": "記憶體資料儲存語言",
+        "choice4": "本機資料儲存語言",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "49",
+        "question": "選擇一個答案最適合形容 Radio 的用途? ",
+        "choice1": "單項選擇元件",
+        "choice2": "按鈕選擇元件",
+        "choice3": "接收收音機電台元件",
+        "choice4": "多項選擇元件",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "50",
+        "question": "以下哪一項最適合形容 Alert 的用途?",
+        "choice1": "彈出的提示對話框",
+        "choice2": "從底部彈出的 Menu 目錄",
+        "choice3": "方格選擇清單",
+        "choice4": "記錄程式的動作",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "51",
+        "question": "如要修改備忘錄可以使用 Google Firebase Realtime Database 哪個 function? (可選擇多項)",
+        "choice1": "setValue( )",
+        "choice2": "childUpdates( )",
+        "choice3": "updateChildValues( )",
+        "choice4": "removeValue( )",
+        "correctAnswer": "choice1choice3"
+    },
+    {
+        "question_id": "52",
+        "question": "在 Google Firebase Realtime Database 下進行刪除操作可以使用那個 function? (可選擇多項)",
+        "choice1": "deleteValue( )",
+        "choice2": "updateFirebaseValue( )",
+        "choice3": "setValue( )",
+        "choice4": "updateChildValues( )",
+        "correctAnswer": "choice3choice4"
+    },
+    {
+        "question_id": "53",
+        "question": "以下哪個是 Search Bar 的用途?",
+        "choice1": "搜尋功能",
+        "choice2": "輸入控制元件",
+        "choice3": "輸入項目控制元件",
+        "choice4": "資料庫搜尋功能",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "54",
+        "question": "在 Google Firebase Realtime Database 下 updateChildValues( ) function 有什麼功用? ",
+        "choice1": "在 Realtime Database 進行查詢資料",
+        "choice2": "在 Realtime Database 進行更新操作",
+        "choice3": "在 Realtime Database 進行刪除操作",
+        "choice4": "在 Realtime Database 進行寫入操作",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "55",
+        "question": "要使用以下哪一款 SwiftUI 元件去建立多項選擇清單? ",
+        "choice1": "ActionSheet",
+        "choice2": "Label",
+        "choice3": "Picker",
+        "choice4": "TextField",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "56",
+        "question": "以下哪一個是執行動畫延遲的功能?",
+        "choice1": "delay(5)",
+        "choice2": "animation(.easeOut)",
+        "choice3": ".repeatForever(autoreverses: false)",
+        "choice4": ".animation(.easeIn)",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "57",
+        "question": "如要申請加入 Apple 開發者計劃中的組織開發者需要多少費用?",
+        "choice1": "美金$99",
+        "choice2": "港幣$99",
+        "choice3": "免費",
+        "choice4": "美金$199",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "58",
+        "question": "在 iOS App 連接 Google Firebase Realtime Database 需要哪個 dependency 到 XCode Project 的 Podfile?",
+        "choice1": "pod 'Firebase/Firestore'",
+        "choice2": "pod 'Firebase/Analytics'",
+        "choice3": "pod 'Firebase/Database'",
+        "choice4": "pod 'Firebase/Auth'",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "59",
+        "question": "以下哪個是 Xcode 介面中的工作區?   (可選擇多項)",
+        "choice1": "Project Navigator",
+        "choice2": "Inspector Area",
+        "choice3": "Window Explorer",
+        "choice4": "Debug Area",
+        "correctAnswer": "choice1choice2choice4"
+    },
+    {
+        "question_id": "60",
+        "question": "在 Google Firebase Realtime Database 下 childByAutoId( ) function 有什麼功用?",
+        "choice1": "修改 childValue 時提供一個修改 ID 的 function",
+        "choice2": "建立 childValue 時提供一個自動建立 ID 的 function",
+        "choice3": "讀取 childValue 時提供 ID 的 function",
+        "choice4": "Realtime Database 沒有此 function",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "61",
+        "question": "在 Swift 中的 Optionals 有什麼用途?",
+        "choice1": "輸出 nil",
+        "choice2": "避免應用程式在變數沒有定義值下出現閃退",
+        "choice3": "SwiftUI 中的下拉清單選項",
+        "choice4": "forced unwrapping 強制解除空值限制",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "62",
+        "question": "以下哪一項是不正確描述 Swift 中的字典(Dictionary)?*",
+        "choice1": "字典是有順序的集合，集合內的元素必須是同一種類型的 。",
+        "choice2": "字典每一個值都會配以一個鍵 。",
+        "choice3": "利用字典可以儲存多個不同值 。",
+        "choice4": "字典不需要使用索引值來識別資料項目。",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "63",
+        "question": "要使用 Google Firebase, 首先要做以一下哪一項事情?*",
+        "choice1": "先註冊開發者賬戶以及登入",
+        "choice2": "先付款",
+        "choice3": "先註冊 Apple ID 以及登入",
+        "choice4": "先註冊 Gmail 電子郵件以及登入",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "64",
+        "question": "以下哪個是獲取 Xcode 的方法?  (可選擇多項)",
+        "choice1": "從 Apple Store 實體店購買",
+        "choice2": "MacOS 內建不用安裝",
+        "choice3": "從 Mac App Store 下載安裝",
+        "choice4": "從 Apple 的開發者網站下載安裝",
+        "correctAnswer": "choice3choice4"
+    },
+    {
+        "question_id": "65",
+        "question": "以下哪項是最適合描述 Google Firebase Realtime Database 獲取所有備忘錄的方法? (可選擇多項)",
+        "choice1": "透過 for loop 及snapshot.children.allObjects as![DataSnapshot] 獲取所有資料",
+        "choice2": "設定 DatabaseReference observe",
+        "choice3": "定義常數 value 暫存 child.value",
+        "choice4": "透過常數 value 獲取各項資料",
+        "correctAnswer": "choice1choice2choice3choice4"
+    },
+    {
+        "question_id": "66",
+        "question": "二維碼 QRCode 最多可儲存多少資料?",
+        "choice1": "2KB",
+        "choice2": "3KB",
+        "choice3": "10KB",
+        "choice4": "50KB",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "67",
+        "question": "以下 Swift 程式執行後的輸出結果是什麼?",
+        "choice1": "5",
+        "choice2": "10",
+        "choice3": "50",
+        "choice4": "100",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "68",
+        "question": "在 Google Firebase Realtime Database 在免費計劃下提供多少儲存空間?*",
+        "choice1": "1GB",
+        "choice2": "2GB",
+        "choice3": "10GB",
+        "choice4": "無限",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "69",
+        "question": "在 SwiftUI 中的變數的字首加上 $ 符號有什麼用途? (可選擇多項)",
+        "choice1": "定義常數",
+        "choice2": "寫入資料到變數中",
+        "choice3": "鎖定變數",
+        "choice4": "雙向資料連結讀取",
+        "correctAnswer": "choice2choice4"
+    },
+    {
+        "question_id": "70",
+        "question": "以下哪一個符號可以將兩個字串連接一起輸出?",
+        "choice1": "加號 ( + )",
+        "choice2": "點 ( . )",
+        "choice3": "問號 ( ? )",
+        "choice4": "感嘆號 ( ! )",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "71",
+        "question": "如要建立雲端備忘錄查看功能可使用以下哪個系統元件?  (可選擇多項)",
+        "choice1": "List",
+        "choice2": "TextField",
+        "choice3": "Button",
+        "choice4": "Text",
+        "correctAnswer": "choice1choice3choice4"
+    },
+    {
+        "question_id": "72",
+        "question": "以下哪一項最適合形容 ActionSheet 的用途?",
+        "choice1": "彈出的提示對話框",
+        "choice2": "記錄程式的動作",
+        "choice3": "從底部彈出的 Menu 目錄",
+        "choice4": "方格選擇清單",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "73",
+        "question": "選擇一個答案最適合形容 Card 的用途?",
+        "choice1": "圖片顯示元件",
+        "choice2": "開關元件",
+        "choice3": "輸出顯示元件",
+        "choice4": "卡片顯示元件",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "74",
+        "question": "在 Swift 中的 function 有什麼用途?",
+        "choice1": "指派變數",
+        "choice2": "執行指定程式碼進行指定的工作",
+        "choice3": "初始化程式",
+        "choice4": "定義程式常數",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "75",
+        "question": "在 Swift 檔中, 要使用不同套件，以下哪一個方法是正確?",
+        "choice1": "透過 VSCode 內的Package Manager 安裝",
+        "choice2": "透過 xCode 內的Package Manager 安裝",
+        "choice3": "透過 App Store 內安裝",
+        "choice4": "透過網路上直接下載",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "76",
+        "question": "以下哪一個是正確描述 CSR 證書？",
+        "choice1": "給予發佈 APP 的權限",
+        "choice2": "一種以文件格式 .cert 結尾的證書",
+        "choice3": "申請 iOS 發佈證書的必備證書",
+        "choice4": "讓開發者使用iPhone/iPad/iPod 等裝置進行測試",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "77",
+        "question": "選擇一個答案最適合形容 Toast 的用途? ",
+        "choice1": "訊息提示顯示元件",
+        "choice2": "輸入提示對話元件",
+        "choice3": "方格選擇清單元件",
+        "choice4": "記錄程式的動作元件",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "78",
+        "question": "如要刪除修改備忘錄可以使用 Google Firebase Realtime Database 以下哪個 function? (可選擇多項)",
+        "choice1": "setValue( )",
+        "choice2": "removeValue( )",
+        "choice3": "childUpdates( )",
+        "choice4": "updateChildValues( )",
+        "correctAnswer": "choice1choice2choice4"
+    },
+    {
+        "question_id": "79",
+        "question": "在 SwiftUI 中原生支援哪種顏色碼? (可選擇多項)",
+        "choice1": "Color(red: 100/255, green: 209/255, blue: 204/255)",
+        "choice2": "Color.black",
+        "choice3": ".white",
+        "choice4": "Color(0xff0000)",
+        "correctAnswer": "choice1choice2choice3"
+    },
+    {
+        "question_id": "80",
+        "question": "在 Google Firebase Realtime Database 下 removeValue( ) function 有什麼功用? ",
+        "choice1": "進行建立操作",
+        "choice2": "沒有功用",
+        "choice3": "進行修改操作",
+        "choice4": "進行刪除操作",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "81",
+        "question": "選擇一個答案最適合形容 SideMenu 的用途?",
+        "choice1": "側旁選單",
+        "choice2": "系統清單元件",
+        "choice3": "多項清單元件",
+        "choice4": "下拉選單",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "82",
+        "question": "二維碼 QRCode 的英文全寫是什麼?",
+        "choice1": "Query Response Code",
+        "choice2": "Question Response Code",
+        "choice3": "Quick Response Code",
+        "choice4": "Quick Receive Code",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "83",
+        "question": "以下哪一個答案最適合形容 iOS AirDrop 功能。",
+        "choice1": "語音播放功能",
+        "choice2": "人工智能助理軟件",
+        "choice3": "應用程式商店",
+        "choice4": "Apple 裝置檔案分享功能",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "84",
+        "question": "以下哪一項 SwiftUI 元件可建立一個有搜尋功能的清單? (可選擇多項)",
+        "choice1": "Search Bar",
+        "choice2": "List",
+        "choice3": "SideMenu",
+        "choice4": "NavigationLink",
+        "correctAnswer": "choice1choice2"
+    },
+    {
+        "question_id": "85",
+        "question": "如要發佈一個新的 App 到 App Stores 平均需要多少審批時間?",
+        "choice1": "兩個工作天",
+        "choice2": "一個工作天",
+        "choice3": "二十四分鐘",
+        "choice4": "四十五分鐘",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "86",
+        "question": "在 Swift 程式中, 關鍵字 var 有什麼用途?",
+        "choice1": "定義程式常數",
+        "choice2": "定義程式代數",
+        "choice3": "定義程式變數",
+        "choice4": "定義程式基本數",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "87",
+        "question": "以下哪種是 AVAudioPlayer 不支援的音效格式?",
+        "choice1": "AMR",
+        "choice2": "ALAC",
+        "choice3": "AAC",
+        "choice4": "MP3",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "88",
+        "question": "以下哪一個是正確描述 iOS 發佈證書?",
+        "choice1": "一種以文件格式 .txt 結尾的證書",
+        "choice2": "一種以文件格式 .docx 結尾的證書",
+        "choice3": "一種以文件格式 .certs 結尾的證書",
+        "choice4": "一種以文件格式 .cer 結尾的證書",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "89",
+        "question": "選擇一個答案最適合形容 AVAudioPlayer 的用途?",
+        "choice1": "在應用程式中播放動畫",
+        "choice2": "在應用程式中播放音效",
+        "choice3": "在應用程式中錄製影片",
+        "choice4": "在應用程式中播放影片",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "90",
+        "question": "在 Google Firebase Realtime Database 下 setValue( ) function 有什麼功用?",
+        "choice1": "在 Realtime Database 進行刪除操作",
+        "choice2": "在 Realtime Database 進行寫入操作",
+        "choice3": "在 Realtime Database 進行查詢資料",
+        "choice4": "在 Realtime Database 進行更新操作",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "91",
+        "question": "使用以下哪一個電腦作業系統可以開發 iOS APP 或 Swift 程式?*",
+        "choice1": "iOS",
+        "choice2": "MacOS",
+        "choice3": "Windows",
+        "choice4": "Android",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "92",
+        "question": "使用哪一項 function 可以在應用程式介面中建立 TextField (輸入方格) 顯示數字鍵盤?",
+        "choice1": ".keyboardType(.webSearch)",
+        "choice2": ".keyboardType(.URL)",
+        "choice3": ".keyboardType(.numberPad)",
+        "choice4": ".keyboardType(.twitter)",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "93",
+        "question": "以下 Swift 程式執行後的輸出結果是什麼?",
+        "choice1": "You have selected Windows as development platform",
+        "choice2": "You have selected Android as development platform",
+        "choice3": "You have selected iOS as development platform",
+        "choice4": "You have selected the undefined development platform",
+        "correctAnswer": "choice3"
+    },
+    {
+        "question_id": "94",
+        "question": "在 Google Firebase Realtime Database 下 observeSingleEvent( ) function 有什麼功用?",
+        "choice1": "Realtime Database 沒有此 function",
+        "choice2": "查看其中一項事件",
+        "choice3": "獲取所有資料",
+        "choice4": "獲取其中一項資料",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "95",
+        "question": "以下哪一個是 LVVM (Low Level Virtual Machine) 的用途?",
+        "choice1": "Android 編程技術",
+        "choice2": "編譯器和工具鏈技術",
+        "choice3": "iOS 編程技術",
+        "choice4": "加密技術",
+        "correctAnswer": "choice2"
+    },
+    {
+        "question_id": "96",
+        "question": "在 Google Firebase Realtime Database 下進行刪除操作需要在 setValue( ) 或 updateChildValues( ) 加入什麼內容才可完成操作?",
+        "choice1": "在 function call 中加入 Null",
+        "choice2": "在 function call 中加入 \"\" \"\" 空白字串 (Empty String)",
+        "choice3": "不用在 function call 中加入內容",
+        "choice4": "在 function call 中加入 nil",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "97",
+        "question": "以下哪一個答案最適合形容 iOS Siri 功能。",
+        "choice1": "iOS 數據儲存制式",
+        "choice2": "管理應用程式數據",
+        "choice3": "應用程式商店",
+        "choice4": "iOS 系統中的人工智能助理軟件",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "98",
+        "question": "以下 Swift 程式執行後的輸出結果是什麼? var currTime = 8   if currTime == 2 { print(\"\"Good Morning\"\") } else if currTime >= 8 { print(\"\"Good Night\"\") }",
+        "choice1": "Good Morning, Good Night",
+        "choice2": "Good Morning",
+        "choice3": "Good Afternoon",
+        "choice4": "Good Night",
+        "correctAnswer": "choice4"
+    },
+    {
+        "question_id": "99",
+        "question": "哪一個答案最適合形容以下 Swift 程式碼:",
+        "choice1": "optional binding",
+        "choice2": "指派變數",
+        "choice3": "檢查空值",
+        "choice4": "程式碼正在使用 if 進行 forced unwrapping 強制解除空值限制",
+        "correctAnswer": "choice4"
+    }
+]}
