@@ -542,7 +542,7 @@
         "choice3_id": "choice3",
         "choice3": ".animation",
         "choice4_id": "choice4",
-        "choice4": ".animation",
+        "choice4": ".animationPlayer",
         "correctAnswer": "choice3"
     },
     {
