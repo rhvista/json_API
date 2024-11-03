@@ -1,4 +1,3 @@
-{"results":[
     {
         "question_id": "1",
         "question": "Q1. 請選出apple的正確英文串法",
@@ -39,5 +38,3 @@
         "choice4": "牛",
         "correctAnswer": "choice1choice3choice4"
     }
-   
-]}
