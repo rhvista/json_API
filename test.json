@@ -1,0 +1,49 @@
+{
+  "result": {
+    "records": [
+      {
+        "question_id": "1",
+        "question": "Q1. 請選出apple的正確英文串法",
+        "choice1_id": "choice1",
+        "choice1": "Apple",
+         "choice2_id": "choice2",
+        "choice2": "Orange",
+        "choice3_id": "choice3",
+        "choice3": "pineapple",
+         "choice4_id": "choice4",
+        "choice4": "strawberry",
+        "correctAnswer": "choice1"
+    },
+    {
+        "question_id": "2",
+        "question": "Q2. 1+1 =",
+        "choice1_id": "choice1",
+        "choice1": "1",
+         "choice2_id": "choice2",
+        "choice2": "2",
+        "choice3_id": "choice3",
+        "choice3": "3",
+         "choice4_id": "choice4",
+        "choice4": "4",
+        "correctAnswer": "choice2"
+    },
+
+     {
+        "question_id": "3",
+        "question": "Q3. 以下那一項是十二生肖",
+        "choice1_id": "choice1",
+        "choice1": "狗",
+         "choice2_id": "choice2",
+        "choice2": "貓",
+        "choice3_id": "choice3",
+        "choice3": "龍",
+         "choice4_id": "choice4",
+        "choice4": "牛",
+        "correctAnswer": "choice1choice3choice4"
+    }
+    ]
+  },
+  "status": 0,
+  "errMsgs": [],
+  "errorInfo": []
+}
