@@ -1,5 +1,7 @@
-{"results":[
-    {
+{
+  "result": {
+    "records": [
+      {
         "question_id": "1",
         "question": "Q1. 私",
         "choice1_id": "choice1",
@@ -38,6 +40,10 @@
          "choice4_id": "choice4",
         "choice4": "テクシー",
         "correctAnswer": "choice3"
-    }
-   
-]}
+    }   
+ ]
+  },
+  "status": 0,
+  "errMsgs": [],
+  "errorInfo": []
+}
