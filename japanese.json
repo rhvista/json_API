@@ -3,15 +3,15 @@
     "records": [
       {
         "question_id": "1",
-        "question": "Q1. 私",
+        "question": "Q1. 百点を取る（　　）、お母さんが必ずごほうびをくれる。",
         "choice1_id": "choice1",
-        "choice1": "わたし",
+        "choice1": "たびに",
          "choice2_id": "choice2",
-        "choice2": "きみ",
+        "choice2": "につけ",
         "choice3_id": "choice3",
-        "choice3": "あなた",
+        "choice3": "--",
          "choice4_id": "choice4",
-        "choice4": "おれ",
+        "choice4": "--",
         "correctAnswer": "choice1"
     },
     {
