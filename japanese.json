@@ -5,13 +5,13 @@
         "question_id": "1",
         "question": "Q1. 百点を取る（　　）、お母さんが必ずごほうびをくれる。",
         "choice1_id": "choice1",
-        "choice1": "たびに",
+        "choice1": "度に (たびに)",
          "choice2_id": "choice2",
         "choice2": "につけ",
         "choice3_id": "choice3",
-        "choice3": "--",
+        "choice3": "毎に (ごとに)",
          "choice4_id": "choice4",
-        "choice4": "--",
+        "choice4": "際に (さいに)",
         "correctAnswer": "choice1"
     },
     {
