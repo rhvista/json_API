@@ -32,7 +32,7 @@
 
      {
         "question_id": "3",
-        "question": "Q3. この曲を聞く度に、昔のことを思い出す。",
+        "question": "Q3. この曲を聞く（　　）、昔のことを思い出す。",
        "choice1": "度に (たびに)",
          "choice2_id": "choice2",
         "choice2": "につけ",
