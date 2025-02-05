@@ -18,32 +18,30 @@
     },
     {
         "question_id": "2",
-        "question": "Q2. 1+1 =",
-        "choice1_id": "choice1",
-        "choice1": "1",
+         "choice1_id": "Q2. 彼は会う（　　）、新しい話を聞かせてくれる。",
+        "choice1": "度に (たびに)",
          "choice2_id": "choice2",
-        "choice2": "2",
+        "choice2": "につけ",
         "choice3_id": "choice3",
-        "choice3": "3",
+        "choice3": "毎に (ごとに)",
          "choice4_id": "choice4",
-        "choice4": "4",
-        "correctAnswer": "choice2",
-      "grammar": "文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
+        "choice4": "際に (さいに)",
+        "correctAnswer": "choice1",
+      "grammar": "每次見面，他都會告訴我新的故事。文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
     },
 
      {
         "question_id": "3",
-        "question": "Q3. 車",
-        "choice1_id": "choice1",
-        "choice1": "でんしゃ",
+        "question": "Q3. この曲を聞く度に、昔のことを思い出す。",
+       "choice1": "度に (たびに)",
          "choice2_id": "choice2",
-        "choice2": "くるま",
+        "choice2": "につけ",
         "choice3_id": "choice3",
-        "choice3": "バス",
+        "choice3": "毎に (ごとに)",
          "choice4_id": "choice4",
-        "choice4": "テクシー",
-        "correctAnswer": "choice2",
-       "grammar": "文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
+        "choice4": "際に (さいに)",
+        "correctAnswer": "choice1",
+       "grammar": "每當聽到這首歌，就會想起過去的事。文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
     }   
  ]
   },
