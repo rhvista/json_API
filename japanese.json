@@ -18,7 +18,7 @@
     },
     {
         "question_id": "2",
-         "choice1_id": "Q2. 彼は会う（　　）、新しい話を聞かせてくれる。",
+         "question": "Q2. 彼は会う（　　）、新しい話を聞かせてくれる。",
         "choice1": "度に (たびに)",
          "choice2_id": "choice2",
         "choice2": "につけ",
