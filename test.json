@@ -12,7 +12,8 @@
         "choice3": "pineapple",
          "choice4_id": "choice4",
         "choice4": "strawberry",
-        "correctAnswer": "choice1"
+        "correctAnswer": "choice1",
+        "grammar": "她每次笑的時候，眼睛都會閃閃發亮。文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
     },
     {
         "question_id": "2",
@@ -25,7 +26,8 @@
         "choice3": "3",
          "choice4_id": "choice4",
         "choice4": "4",
-        "correctAnswer": "choice2"
+        "correctAnswer": "choice2",
+      "grammar": "她每次笑的時候，眼睛都會閃閃發亮。文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
     },
 
      {
@@ -39,7 +41,8 @@
         "choice3": "龍",
          "choice4_id": "choice4",
         "choice4": "牛",
-        "correctAnswer": "choice1choice3choice4"
+        "correctAnswer": "choice1choice3choice4",
+       "grammar": "她每次笑的時候，眼睛都會閃閃發亮。文法解釋：「度に」用於表示某種情況或動作反覆發生時，伴隨另一種情況或動作。這裡的「度」指的是「每次」或「每回」，因此「度に」強調的是「每當……的時候」。"
     }
     ]
   },
