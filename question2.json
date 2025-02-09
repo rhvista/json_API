@@ -1,44 +1,129 @@
-{"results":[
-    {
+{
+  "result": {
+    "records": [
+      {
         "question_id": "1",
-        "question": "請選出蘋果的正確英文串法",
+        "question": "彼の成功は努力に______大きな影響を与えた。",
         "choice1_id": "choice1",
-        "choice1": "Apple",
-         "choice2_id": "choice2",
-        "choice2": "Orange",
-        "choice3_id": "choice3",
-        "choice3": "pineapple",
-         "choice4_id": "choice4",
-        "choice4": "strawberry",
-        "correctAnswer": "choice1"
-    },
-    {
+        "choice1": "かかわる",
+        "choice2_id": "choice2",
+        "choice2": "依存して",
+        "choice3_id": "選ばれて",
+        "choice3": "繋がって",
+        "choice4_id": "choice4",
+        "choice4": "にかかわる",
+        "correctAnswer": "choice4",
+        "hints": "かかわる：表示與某事有關聯。\n\n依存して：表示依賴於某事。\n\n選ばれて：表示被選中。\n\n繋がって：表示連接或聯繫。",
+        "grammar": "這句話的意思是「他的成功對努力有很大的影響。」正確選項是「にかかわる」，因為它表示與某事物的相關性。其他選項雖然有聯繫的意涵，但不符合句子的語境。"
+      },
+      {
         "question_id": "2",
-        "question": "1+1 =",
+        "question": "この問題は私たちの生活に______影響を及ぼす。",
         "choice1_id": "choice1",
-        "choice1": "1",
-         "choice2_id": "choice2",
-        "choice2": "2",
+        "choice1": "頼って",
+        "choice2_id": "choice2",
+        "choice2": "関わらず",
         "choice3_id": "choice3",
-        "choice3": "3",
-         "choice4_id": "choice4",
-        "choice4": "4",
-        "correctAnswer": "choice2"
-    },
-
-     {
+        "choice3": "かかわって",
+        "choice4_id": "choice4",
+        "choice4": "にかかわって",
+        "correctAnswer": "choice4",
+        "hints": "頼って：表示依賴某事。\n\n関わらず：表示不受影響。\n\nかかわって：表示與某事有關聯。\n\nにかかわって：表示與某事直接相關。",
+        "grammar": "這句話的意思是「這個問題將對我們的生活造成影響。」正確答案是「にかかわって」，表示有直接的關聯性。其他選項不符合句子的語境或含義。"
+      },
+      {
         "question_id": "3",
-        "question": "以下那一項是十二生肖",
+        "question": "この法律は市民生活に______変化をもたらした。",
         "choice1_id": "choice1",
-        "choice1": "狗",
-         "choice2_id": "choice2",
-        "choice2": "貓",
+        "choice1": "直面して",
+        "choice2_id": "choice2",
+        "choice2": "関係して",
         "choice3_id": "choice3",
-        "choice3": "龍",
-         "choice4_id": "choice4",
-        "choice4": "牛",
-        "correctAnswer": "choice1choice3choice4"
-    }
-
-
-]}
+        "choice3": "かかわり",
+        "choice4_id": "choice4",
+        "choice4": "にかかわり",
+        "correctAnswer": "choice4",
+        "hints": "直面して：表示面對某事。\n\n関係して：表示有關聯。\n\nかかわり：表示關係或影響。\n\nにかかわり：表示某事物的相關性。",
+        "grammar": "這句話的意思是「這項法律對市民生活帶來了變化。」正確答案是「にかかわり」，因為它強調法律與市民生活的關係。而其他選項則無法正確表達這層關聯。"
+      },
+      {
+        "question_id": "4",
+        "question": "新しいプロジェクトには多くのリスクが______ます。",
+        "choice1_id": "choice1",
+        "choice1": "含まれて",
+        "choice2_id": "choice2",
+        "choice2": "伴って",
+        "choice3_id": "choice3",
+        "choice3": "かかわる",
+        "choice4_id": "choice4",
+        "choice4": "にかかる",
+        "correctAnswer": "choice4",
+        "hints": "含まれて：表示包含某物。\n\n伴って：表示隨著某事。\n\nかかわる：表示與某事有關聯。\n\nにかかる：表示與某事有關的影響或責任。",
+        "grammar": "這句話的意思是「新項目有許多風險。」正確的選項是「にかかる」，因為它表示風險與新項目有直接的關聯。其他選項並不符合句子所需的文法結構。"
+      },
+      {
+        "question_id": "5",
+        "question": "このテーマについて話をする______、十分な準備が必要だ。",
+        "choice1_id": "choice1",
+        "choice1": "際に",
+        "choice2_id": "choice2",
+        "choice2": "つけ",
+        "choice3_id": "choice3",
+        "choice3": "つけて",
+        "choice4_id": "choice4",
+        "choice4": "につけ",
+        "correctAnswer": "choice4",
+        "hints": "際に：表示在某時。\n\nつけ：表示附加或加上。\n\nつけて：表示在某事上附加。\n\nにつけ：表示在某事情上需要考慮或注意。",
+        "grammar": "這句話的意思是「在討論這個主題時，需要充分的準備。」正確選項是「につけ」，因為它強調在某件事上所需要的準備。其他選項不符合句子的語境。"
+      },
+      {
+        "question_id": "6",
+        "question": "彼は旅行する______、毎回新しい経験をする。",
+        "choice1_id": "choice1",
+        "choice1": "たびに",
+        "choice2_id": "choice2",
+        "choice2": "機会に",
+        "choice3_id": "choice3",
+        "choice3": "日常に",
+        "choice4_id": "choice4",
+        "choice4": "時に",
+        "correctAnswer": "choice1",
+        "hints": "機会に：表示在某個機會。\n\n日常に：表示在日常生活中。\n\n時に：表示在某個時刻。\n\nたびに：表示每次都會發生某事。",
+        "grammar": "這句話的意思是「每次旅行，他都有新的經驗。」正確選項是「たびに」，它強調每次旅行都會有不同的經歷。其他選項不符合句子的上下文。"
+      },
+      {
+        "question_id": "7",
+        "question": "子供の成長には家族のサポートが______重要だ。",
+        "choice1_id": "choice1",
+        "choice1": "必須だから",
+        "choice2_id": "choice2",
+        "choice2": "関与して",
+        "choice3_id": "choice3",
+        "choice3": "必要で",
+        "choice4_id": "choice4",
+        "choice4": "につけて",
+        "correctAnswer": "choice4",
+        "hints": "必須だから：表示必須的理由。\n\n関与して：表示參與。\n\n必要で：表示需要的狀態。\n\nにつけて：表示在某事上考慮到的因素。",
+        "grammar": "這句話的意思是「孩子的成長需要家庭的支持。」正確選項是「につけて」，因為它強調了支持在孩子成長中的重要性。其他選項未能正確表達這層含義。"
+      },
+      {
+        "question_id": "8",
+        "question": "新しい技術の導入は多くの企業に______影響を与えた。",
+        "choice1_id": "choice1",
+        "choice1": "挑戦を与え",
+        "choice2_id": "choice2",
+        "choice2": "関係して",
+        "choice3_id": "choice3",
+        "choice3": "持ち",
+        "choice4_id": "choice4",
+        "choice4": "にかかわって",
+        "correctAnswer": "choice4",
+        "hints": "挑戦を与え：表示對某人提出挑戰。\n\n関係して：表示有關聯。\n\n持ち：表示持有某物。\n\nにかかわって：表示與某事直接相關。",
+        "grammar": "這句話的意思是「新技術的引入對許多企業造成了影響。」正確的選項是「にかかわって」，因為它強調了新技術與企業之間的關聯。其他選項不符合句子的需求。"
+      }
+    ]
+  },
+  "status": 0,
+  "errMsgs": [],
+  "errorInfo": []
+}
