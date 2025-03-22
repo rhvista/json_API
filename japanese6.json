@@ -123,7 +123,7 @@
       },
       {
         "question_id": "9",
-        "question": "このイベントは、来月の初め＿＿＿開催されます。",
+        "question": "このホテルは、市の中心＿＿＿位置しています。",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
@@ -138,7 +138,7 @@
       },
       {
       "question_id": "10",
-  "question": "この規則は、社員の安全＿＿＿定められました。",
+  "question": "この新製品は、顧客のニーズ＿＿＿、特別なデザインが施されました。",
   "choice1_id": "choice1",
   "choice1": "について",
   "choice2_id": "choice2",
@@ -153,7 +153,7 @@
       },
       {
         "question_id": "11",
-        "question": "この資料は、新しい政策＿＿＿詳しく説明されています。",
+        "question": "この本は日本の歴史＿＿＿書かれています",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
@@ -183,7 +183,7 @@
       },
       {
         "question_id": "13",
-        "question": "このイベントは、来月の初め＿＿＿開催されます。",
+        "question": "彼は、経済学＿＿＿多くの業績を残しています",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
@@ -228,7 +228,7 @@
       },
       {
         "question_id": "16",
-        "question": "このプロジェクトは、予算の制限＿＿＿再検討が必要です。",
+        "question": "社員の研修は、職場環境＿＿＿、丁寧に説明されます。",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
@@ -243,7 +243,7 @@
       },
       {
         "question_id": "17",
-        "question": "この規則は、安全上の理由＿＿＿変更されました。",
+        "question": "新入社員の教育は、会社文化＿＿＿、徹底的に行われます。",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
@@ -273,7 +273,7 @@
       },
       {
         "question_id": "19",
-        "question": "この商品は、品質問題＿＿＿回収されました。",
+        "question": "この計画は、地域の特性に関連する問題点＿＿＿調整されました。",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
@@ -288,7 +288,7 @@
       },
       {
         "question_id": "20",
-        "question": "このプロジェクトは、資金不足＿＿＿中止されました。",
+        "question": "この問題は、技術的なミス＿＿＿発生しました。",
         "choice1_id": "choice1",
         "choice1": "について",
         "choice2_id": "choice2",
