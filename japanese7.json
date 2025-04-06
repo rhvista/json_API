@@ -3,7 +3,7 @@
     "records": [
       {
         "question_id": "1",
-        "question": "この本は内容が複雑で、理解することが難しいです。",
+        "question": "この本は内容が複雑で、理解することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -18,7 +18,7 @@
       },
       {
         "question_id": "2",
-        "question": "彼は性格が厳格で、話し手にくい人です。",
+        "question": "彼は性格が厳格で、話し手に____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -33,7 +33,7 @@
       },
       {
         "question_id": "3",
-        "question": "この問題は解決することが非常にづらいです。",
+        "question": "この問題は解決することが非常に____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -48,7 +48,7 @@
       },
       {
         "question_id": "4",
-        "question": "彼は自分の意見を表現することががたいです。",
+        "question": "彼は自分の意見を表現することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -63,7 +63,7 @@
       },
       {
         "question_id": "5",
-        "question": "この料理は作るのがむつかしいです。",
+        "question": "この料理は作るのが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -78,7 +78,7 @@
       },
       {
         "question_id": "6",
-        "question": "彼は性格が硬く、話し手にくい人です。",
+        "question": "彼は性格が硬く、話し手____人です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -93,7 +93,7 @@
       },
       {
         "question_id": "7",
-        "question": "この問題は解決することが非常にづらいです。",
+        "question": "この問題は解決することが非常に____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -108,7 +108,7 @@
       },
       {
         "question_id": "8",
-        "question": "彼は自分の意見を表現することががたいです。",
+        "question": "彼は自分の意見を表現することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -138,7 +138,7 @@
       },
       {
         "question_id": "10",
-        "question": "彼は性格が厳格で、話し手にくい人です。",
+        "question": "彼は性格が厳格で、話し手____人です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -153,7 +153,7 @@
       },
       {
         "question_id": "11",
-        "question": "この問題は解決することが非常にづらいです。",
+        "question": "この問題は解決することが非常に____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -168,7 +168,7 @@
       },
       {
         "question_id": "12",
-        "question": "彼は自分の意見を表現することががたいです。",
+        "question": "彼は自分の意見を表現することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -183,7 +183,7 @@
       },
       {
         "question_id": "13",
-        "question": "この料理は作るのがむつかしいです。",
+        "question": "この料理は作るのが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -198,7 +198,7 @@
       },
       {
         "question_id": "14",
-        "question": "彼は性格が硬く、話し手にくい人です。",
+        "question": "彼は性格が硬く、話し手____人です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -213,7 +213,7 @@
       },
       {
         "question_id": "15",
-        "question": "この問題は解決することが非常にづらいです。",
+        "question": "この問題は解決することが非常に____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -228,7 +228,7 @@
       },
       {
         "question_id": "16",
-        "question": "彼は自分の意見を表現することががたいです。",
+        "question": "彼は自分の意見を表現することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -243,7 +243,7 @@
       },
       {
         "question_id": "17",
-        "question": "この本は内容が複雑で、理解することがむつかしいです。",
+        "question": "この本は内容が複雑で、理解することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -258,7 +258,7 @@
       },
       {
         "question_id": "18",
-        "question": "彼は性格が厳格で、話し手にくい人です。",
+        "question": "彼は性格が厳格で、話し手____人です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -273,7 +273,7 @@
       },
       {
         "question_id": "19",
-        "question": "この問題は解決することが非常にづらいです。",
+        "question": "この問題は解決することが非常に____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -288,7 +288,7 @@
       },
       {
         "question_id": "20",
-        "question": "彼は自分の意見を表現することががたいです。",
+        "question": "彼は自分の意見を表現することが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
