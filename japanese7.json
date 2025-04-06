@@ -52,13 +52,13 @@
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
-        "choice2": "づらい",
+        "choice2": "苦手（にがて）",
         "choice3_id": "choice3",
         "choice3": "がたい",
         "choice4_id": "choice4",
         "choice4": "むつかしい",
         "correctAnswer": "choice3",
-        "hints": "にくい：不自然、不適切\nづらい：困難、辛い\nがたい：不可能、困難\nむつかしい：難しい、複雑",
+        "hints": "にくい：不自然、不適切\n苦手（にがて）：不習慣\nがたい：不可能、困難\nむつかしい：難しい、複雑",
         "grammar": "彼は自分の意見を表現することががたいです。—「がたい」表示不可能、困難\n\nにくい：不自然、不適切\n\nづらい：困難、辛い\n\nむつかしい：難しい、複雑"
       },
       {
