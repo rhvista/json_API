@@ -3,7 +3,7 @@
     "records": [
       {
         "question_id": "1",
-        "question": "この本は内容が複雑で、理解することが____です。",
+        "question": "この本は内容が複雑で、理解するのが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -18,7 +18,7 @@
       },
       {
         "question_id": "2",
-        "question": "彼は性格が厳格で、話し____です。",
+        "question": "この本は内容が複雑で、理解し_____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -29,7 +29,7 @@
         "choice4": "難しい（むずかしい）",
         "correctAnswer": "choice1",
         "hints": "にくい：不自然、不適切\nづらい：困難、辛い\nがたい：不可能、困難\n難しい（むずかしい）：難しい、複雑",
-        "grammar": "彼は性格が厳格で、話し手にくい人です。—「にくい」表示不自然、不適切\n\nづらい：困難、辛い\n\nがたい：不可能、困難\n\n難しい（むずかしい）：難しい、複雑"
+        "grammar": "「～にくい」は動詞のます形（stem form）**に直接つきます。"
       },
       {
         "question_id": "3",
