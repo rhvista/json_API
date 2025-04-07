@@ -18,7 +18,7 @@
       },
       {
         "question_id": "2",
-        "question": "彼は性格が厳格で、話し手に____です。",
+        "question": "彼は性格が厳格で、話し____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
