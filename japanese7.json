@@ -42,7 +42,7 @@
         "choice3": "がたい",
         "choice4_id": "choice4",
         "choice4": "難しい（むずかしい）",
-        "correctAnswer": "choice2",
+        "correctAnswer": "choice４",
         "hints": "にくい：不自然、不適切\nづらい：困難、辛い\nがたい：不可能、困難\n難しい（むずかしい）：難しい、複雑",
         "grammar": "この問題は解決することが非常にづらいです。—「づらい」表示困難、辛い\n\nにくい：不自然、不適切\n\nがたい：不可能、困難\n\n難しい（むずかしい）：難しい、複雑"
       },
@@ -78,7 +78,7 @@
       },
       {
         "question_id": "6",
-        "question": "彼は性格が硬く、話し手____人です。",
+        "question": "信じ＿＿＿＿ことだが、彼はそのプロジェクトを一人で完成させた。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -87,13 +87,13 @@
         "choice3": "がたい",
         "choice4_id": "choice4",
         "choice4": "難しい（むずかしい）",
-        "correctAnswer": "choice1",
+        "correctAnswer": "choice3",
         "hints": "にくい：不自然、不適切\nづらい：困難、辛い\nがたい：不可能、困難\n難しい（むずかしい）：難しい、複雑",
         "grammar": "彼は性格が硬く、話し手にくい人です。—「にくい」表示不自然、不適切\n\nづらい：困難、辛い\n\nがたい：不可能、困難\n\n難しい（むずかしい）：難しい、複雑"
       },
       {
         "question_id": "7",
-        "question": "この問題は解決することが非常に____です。",
+        "question": "あの事故の光景は忘れ＿＿＿＿。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -102,7 +102,7 @@
         "choice3": "がたい",
         "choice4_id": "choice4",
         "choice4": "難しい（むずかしい）",
-        "correctAnswer": "choice2",
+        "correctAnswer": "choice3",
         "hints": "にくい：不自然、不適切\nづらい：困難、辛い\nがたい：不可能、困難\n難しい（むずかしい）：難しい、複雑",
         "grammar": "この問題は解決することが非常にづらいです。—「づらい」表示困難、辛い\n\nにくい：不自然、不適切\n\nがたい：不可能、困難\n\n難しい（むずかしい）：難しい、複雑"
       },
