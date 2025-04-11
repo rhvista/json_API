@@ -48,7 +48,7 @@
       },
       {
         "question_id": "4",
-        "question": "彼は自分の意見を表現することが____です。",
+        "question": "彼は自分の意見を表現するのが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
@@ -57,7 +57,7 @@
         "choice3": "がたい",
         "choice4_id": "choice4",
         "choice4": "難しい（むずかしい）",
-        "correctAnswer": "choice3",
+        "correctAnswer": "choice2",
         "hints": "にくい：不自然、不適切\n苦手（にがて）：不習慣\nがたい：不可能、困難\n難しい（むずかしい）：難しい、複雑",
         "grammar": "彼は自分の意見を表現することががたいです。—「がたい」表示不可能、困難\n\nにくい：不自然、不適切\n\nづらい：困難、辛い\n\n難しい（むずかしい）：難しい、複雑"
       },
