@@ -138,7 +138,7 @@
       },
       {
         "question_id": "10",
-        "question": "彼は性格が厳格で、話し手____人です。",
+        "question": "このドアは重くて開け_____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
