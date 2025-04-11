@@ -123,7 +123,7 @@
       },
       {
         "question_id": "9",
-        "question": "この料理は作るのが難しい（むずかしい）です。",
+        "question": "この料理は作るのが____です。",
         "choice1_id": "choice1",
         "choice1": "にくい",
         "choice2_id": "choice2",
