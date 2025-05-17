@@ -1,69 +1,69 @@
 {
-  "result": {
-    "records": [
-      {
-        "question_id": "1",
-        "question": "彼の(    )ような行為は、周囲の失望を買った。",
-        "choice1_id": "choice1",
-        "choice1": "憧れ",
-        "choice2_id": "choice2",
-        "choice2": "欺く",
-        "choice3_id": "choice3",
-        "choice3": "顎",
-        "choice4_id": "choice4",
-        "choice4": "浅ましい",
-        "correctAnswer": "choice4",
-        "hints": "浅ましい(あさましい): 卑劣で見苦しい様子\n\n憧れ(あこがれ): 強いあこがれ\n\n欺く(あざむく): だますこと\n\n顎(あご): 顔の一部",
-        "grammar": "題目漢字讀音: 彼(かれ)、行為(こうい)、周囲(しゅうい)、失望(しつぼう)、買(か)\n\n正確答案「浅ましい」解析: 道徳的に許されない卑劣な行為を形容するのに最適な表現\n\n其他選項分析:\n「憧れ」は肯定的な感情で否定的文脈に不適\n「欺く」は動詞で「ような」に接続できない\n「顎」は身体部位で行為の評価と無関係"
-      },
-      {
-        "question_id": "2",
-        "question": "子供の頃からの宇宙飛行士への(    )が、彼をNASAへと導いた。",
-        "choice1_id": "choice1",
-        "choice1": "顎",
-        "choice2_id": "choice2",
-        "choice2": "憧れ",
-        "choice3_id": "choice3",
-        "choice3": "浅ましい",
-        "choice4_id": "choice4",
-        "choice4": "欺く",
-        "correctAnswer": "choice2",
-        "hints": "憧れ(あこがれ): 強いあこがれの感情\n\n顎(あご): 顔の一部\n\n浅ましい(あさましい): 卑劣な様子\n\n欺く(あざむく): だますこと",
-        "grammar": "題目漢字讀音: 子供(こども)、宇宙(うちゅう)、飛行士(ひこうし)、NASA、導(みちび)\n\n正確答案「憧れ」解析: 職業に対する強いあこがれを表す名詞\n\n其他選項分析:\n「顎」は身体部位で感情表現に不適\n「浅ましい」は否定的形容詞で名詞として使えない\n「欺く」は動詞で名詞が必要な文型に不適"
-      },
-      {
-        "question_id": "3",
-        "question": "証拠を偽造してまで人を(    )ような行為は許されない。",
-        "choice1_id": "choice1",
-        "choice1": "顎",
-        "choice2_id": "choice2",
-        "choice2": "憧れ",
-        "choice3_id": "choice3",
-        "choice3": "欺く",
-        "choice4_id": "choice4",
-        "choice4": "浅ましい",
-        "correctAnswer": "choice3",
-        "hints": "欺く(あざむく): 人をだます行為\n\n顎(あご): 顔の一部\n\n憧れ(あこがれ): あこがれの感情\n\n浅ましい(あさましい): 卑劣な様子",
-        "grammar": "題目漢字讀音: 証拠(しょうこ)、偽造(ぎぞう)、人(ひと)、行為(こうい)、許(ゆる)\n\n正確答案「欺く」解析: 偽造行為の目的である「だます」を表す動詞\n\n其他選項分析:\n「顎」は身体部位で不正行為と無関係\n「憧れ」は肯定的感情で不正行為と矛盾\n「浅ましい」は形容詞で動詞が必要な文型に不適"
-      },
-      {
-        "question_id": "4",
-        "question": "彼は考え深げに(    )に手をやりながら、難しい決断を下した。",
-        "choice1_id": "choice1",
-        "choice1": "憧れ",
-        "choice2_id": "choice2",
-        "choice2": "浅ましい",
-        "choice3_id": "choice3",
-        "choice3": "欺く",
-        "choice4_id": "choice4",
-        "choice4": "顎",
-        "correctAnswer": "choice4",
-        "hints": "顎(あご): 顔の一部（顎ひげをなでる動作）\n\n憧れ(あこがれ): あこがれの感情\n\n浅ましい(あさましい): 卑劣な様子\n\n欺く(あざむく): だますこと",
-        "grammar": "題目漢字讀音: 彼(かれ)、考(かんが)、難(むずか)、決断(けつだん)、下(くだ)\n\n正確答案「顎」解析: 考え事をする際の典型的な動作（顎に手をやる）を表す\n\n其他選項分析:\n「憧れ」は抽象的概念で物理的動作と結びつかない\n「浅ましい」は形容詞で動作対象として不適\n「欺く」は動詞で名詞が必要な文型に不適"
-      }
-    ]
-  },
-  "status": 0,
-  "errMsgs": [],
-  "errorInfo": []
+"result": {
+"records": [
+{
+"question_id": "1",
+"question": "彼は自分の意見をはっきり言うために、強い___を持っている。",
+"choice1_id": "choice1",
+"choice1": "顎",
+"choice2_id": "choice2",
+"choice2": "憧れ",
+"choice3_id": "choice3",
+"choice3": "浅ましい",
+"choice4_id": "choice4",
+"choice4": "欺く",
+"correctAnswer": "choice1",
+"hints": "顎：表示人體部位，特指下巴。\n\n憧れ：表示對理想或目標的嚮往。\n\n浅ましい：形容行為卑劣、可憐。\n\n欺く：表示欺騙、蒙蔽。",
+"grammar": "彼(かれ)は自分(じぶん)の意見(いけん)をはっきり言(い)うために、強(つよ)い顎(あご)を持(も)っている。"
+},
+{
+"question_id": "2",
+"question": "成功した作家に___を抱き、彼のようになりたいと願っている。",
+"choice1_id": "choice1",
+"choice1": "顎",
+"choice2_id": "choice2",
+"choice2": "憧れ",
+"choice3_id": "choice3",
+"choice3": "浅ましい",
+"choice4_id": "choice4",
+"choice4": "欺く",
+"correctAnswer": "choice2",
+"hints": "顎：人體部位名，不適合表達情感。\n\n憧れ：表示嚮往、夢想的對象。\n\n浅ましい：形容卑劣行為，與情感無關。\n\n欺く：指欺騙，不符合語境。",
+"grammar": "成功(せいこう)した作家(さっか)に憧(あこが)れを抱(いだ)き、彼(かれ)のようになりたいと願(ねが)っている。"
+},
+{
+"question_id": "3",
+"question": "彼の行動は本当に___で、見ていて恥ずかしい。",
+"choice1_id": "choice1",
+"choice1": "顎",
+"choice2_id": "choice2",
+"choice2": "憧れ",
+"choice3_id": "choice3",
+"choice3": "浅ましい",
+"choice4_id": "choice4",
+"choice4": "欺く",
+"correctAnswer": "choice3",
+"hints": "顎：身體部位，無法形容行為。\n\n憧れ：表示嚮往，不用來形容行為。\n\n浅ましい：形容行為卑劣、可恥，符合語境。\n\n欺く：表示欺騙，與形容行為的卑劣不同。",
+"grammar": "彼(かれ)の行動(こうどう)は本当(ほんとう)に浅(あさ)ましいで、見(み)ていて恥(は)ずかしい。"
+},
+{
+"question_id": "4",
+"question": "彼は人を___ことに長けているため、信用されない。",
+"choice1_id": "choice1",
+"choice1": "顎",
+"choice2_id": "choice2",
+"choice2": "憧れ",
+"choice3_id": "choice3",
+"choice3": "浅ましい",
+"choice4_id": "choice4",
+"choice4": "欺く",
+"correctAnswer": "choice4",
+"hints": "顎：身體部位，無法用於動詞。\n\n憧れ：名詞，表示嚮往，不是動詞。\n\n浅ましい：形容詞，無法用於動詞。\n\n欺く：動詞，表示欺騙，符合句意。",
+"grammar": "彼(かれ)は人(ひと)を欺(あざむ)くことに長(た)けているため、信用(しんよう)されない。"
+}
+]
+},
+"status": 0,
+"errMsgs": [],
+"errorInfo": []
 }
