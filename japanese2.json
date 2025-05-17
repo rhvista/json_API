@@ -1,69 +1,39 @@
+據以下GSON 格式, 生成4條不重覆的JLPT N1程度試題., 每條試題內容不能重覆或相似. 每條試題各有四個選項,由以下四個正確答案隨機選出. 每條問題正確答案分別是  顎、憧れ、浅ましい、欺く　以上選項各為正確答案一次.
+
+hints: 提示四個選項各所表示的文法用法. 每個選項用\n\n分隔.
+
+grammar: 提供題目的中文譯本.  在grammar 欄位生成題目漢字的平假名.型式為漢字(平假名), 本身是平假名的文字不用顯示.  並詳細剖割每個答案, 指出每個答案為什麼是正確/不正確.每個答案用\n\n分隔.
+
+
+xxxxx是生成的內容.
+
+"hints": xxxxx
+
+ "grammar": xxxxx
+
+
 {
-"result": {
-"records": [
-{
-"question_id": "1",
-"question": "彼は自分の意見をはっきり言うために、強い___を持っている。",
-"choice1_id": "choice1",
-"choice1": "顎",
-"choice2_id": "choice2",
-"choice2": "憧れ",
-"choice3_id": "choice3",
-"choice3": "浅ましい",
-"choice4_id": "choice4",
-"choice4": "欺く",
-"correctAnswer": "choice1",
-"hints": "顎：表示人體部位，特指下巴。\n\n憧れ：表示對理想或目標的嚮往。\n\n浅ましい：形容行為卑劣、可憐。\n\n欺く：表示欺騙、蒙蔽。",
-"grammar": "彼(かれ)は自分(じぶん)の意見(いけん)をはっきり言(い)うために、強(つよ)い顎(あご)を持(も)っている。"
-},
-{
-"question_id": "2",
-"question": "成功した作家に___を抱き、彼のようになりたいと願っている。",
-"choice1_id": "choice1",
-"choice1": "顎",
-"choice2_id": "choice2",
-"choice2": "憧れ",
-"choice3_id": "choice3",
-"choice3": "浅ましい",
-"choice4_id": "choice4",
-"choice4": "欺く",
-"correctAnswer": "choice2",
-"hints": "顎：人體部位名，不適合表達情感。\n\n憧れ：表示嚮往、夢想的對象。\n\n浅ましい：形容卑劣行為，與情感無關。\n\n欺く：指欺騙，不符合語境。",
-"grammar": "成功(せいこう)した作家(さっか)に憧(あこが)れを抱(いだ)き、彼(かれ)のようになりたいと願(ねが)っている。"
-},
-{
-"question_id": "3",
-"question": "彼の行動は本当に___で、見ていて恥ずかしい。",
-"choice1_id": "choice1",
-"choice1": "顎",
-"choice2_id": "choice2",
-"choice2": "憧れ",
-"choice3_id": "choice3",
-"choice3": "浅ましい",
-"choice4_id": "choice4",
-"choice4": "欺く",
-"correctAnswer": "choice3",
-"hints": "顎：身體部位，無法形容行為。\n\n憧れ：表示嚮往，不用來形容行為。\n\n浅ましい：形容行為卑劣、可恥，符合語境。\n\n欺く：表示欺騙，與形容行為的卑劣不同。",
-"grammar": "彼(かれ)の行動(こうどう)は本当(ほんとう)に浅(あさ)ましいで、見(み)ていて恥(は)ずかしい。"
-},
-{
-"question_id": "4",
-"question": "彼は人を___ことに長けているため、信用されない。",
-"choice1_id": "choice1",
-"choice1": "顎",
-"choice2_id": "choice2",
-"choice2": "憧れ",
-"choice3_id": "choice3",
-"choice3": "浅ましい",
-"choice4_id": "choice4",
-"choice4": "欺く",
-"correctAnswer": "choice4",
-"hints": "顎：身體部位，無法用於動詞。\n\n憧れ：名詞，表示嚮往，不是動詞。\n\n浅ましい：形容詞，無法用於動詞。\n\n欺く：動詞，表示欺騙，符合句意。",
-"grammar": "彼(かれ)は人(ひと)を欺(あざむ)くことに長(た)けているため、信用(しんよう)されない。"
-}
+  "result": {
+    "records": [
+    {
+    {
+        "question_id": "1",
+        "question": "xxxxx",
+        "choice1_id": "choice1",
+        "choice1": "xxxxx",
+        "choice2_id": "choice2",
+        "choice2": "xxxxx",
+        "choice3_id": "choice3",
+        "choice3": "xxxxx",
+        "choice4_id": "choice4",
+        "choice4": "xxxxx",
+        "correctAnswer": "choice4",
+        "hints": "xxxxxx",
+        "grammar": "xxxxx"
+    }
 ]
-},
-"status": 0,
-"errMsgs": [],
-"errorInfo": []
+  },
+  "status": 0,
+  "errMsgs": [],
+  "errorInfo": []
 }
