@@ -1,69 +1,69 @@
 {
-  "result": {
-    "records": [
-      {
-        "question_id": "1",
-        "question": "会議の資料を(　　)用意しておいてください。",
-        "choice1_id": "choice1",
-        "choice1": "荒らす",
-        "choice2_id": "choice2",
-        "choice2": "争い",
-        "choice3_id": "choice3",
-        "choice3": "改まる",
-        "choice4_id": "choice4",
-        "choice4": "予め",
-        "correctAnswer": "choice4",
-        "hints": "予め：表示事先準備\n\n荒らす：表示破壞或弄亂\n\n争い：表示爭執或衝突\n\n改まる：表示改變或更新",
-        "grammar": "會議的資料請(事先)準備好。\n\n資料(しりょう)\n\n予め(あらかじめ)：正確答案，符合「事先準備」的語境。\n\n荒らす(あらす)：不正確，與「準備資料」的動作無關。\n\n争い(あらそい)：不正確，此處需要動詞而非名詞。\n\n改まる(あらたまる)：不正確，語意為「變得正式」，與題意不符。"
-      },
-      {
-        "question_id": "2",
-        "question": "彼は怒ると周りの物を(　　)癖がある。",
-        "choice1_id": "choice1",
-        "choice1": "予め",
-        "choice2_id": "choice2",
-        "choice2": "荒らす",
-        "choice3_id": "choice3",
-        "choice3": "争い",
-        "choice4_id": "choice4",
-        "choice4": "改まる",
-        "correctAnswer": "choice2",
-        "hints": "荒らす：表示破壞或弄亂\n\n予め：表示事先準備\n\n争い：表示爭執或衝突\n\n改まる：表示改變或更新",
-        "grammar": "他有生氣時會(破壞)周圍東西的習慣。\n\n怒る(おこる)\n\n荒らす(あらす)：正確答案，符合「破壞物品」的動作。\n\n予め(あらかじめ)：不正確，語意與「發怒時的動作」無關。\n\n争い(あらそい)：不正確，此處需要動詞而非名詞。\n\n改まる(あらたまる)：不正確，語意為「變得嚴肅」，與題意不符。"
-      },
-      {
-        "question_id": "3",
-        "question": "兄弟の(　　)を仲裁するのは大変だ。",
-        "choice1_id": "choice1",
-        "choice1": "改まる",
-        "choice2_id": "choice2",
-        "choice2": "予め",
-        "choice3_id": "choice3",
-        "choice3": "荒らす",
-        "choice4_id": "choice4",
-        "choice4": "争い",
-        "correctAnswer": "choice4",
-        "hints": "争い：表示爭執或衝突\n\n改まる：表示改變或更新\n\n予め：表示事先準備\n\n荒らす：表示破壞或弄亂",
-        "grammar": "調停兄弟間的(爭執)很辛苦。\n\n兄弟(きょうだい)\n仲裁(ちゅうさい)\n\n争い(あらそい)：正確答案，符合「需要調停的衝突」語境。\n\n改まる(あらたまる)：不正確，語意與「衝突」無關。\n\n予め(あらかじめ)：不正確，此處需要名詞而非副詞。\n\n荒らす(あらす)：不正確，為動詞且語意不符。"
-      },
-      {
-        "question_id": "4",
-        "question": "規則が(　　)ので、最新のマニュアルを確認してください。",
-        "choice1_id": "choice1",
-        "choice1": "争い",
-        "choice2_id": "choice2",
-        "choice2": "荒らす",
-        "choice3_id": "choice3",
-        "choice3": "予め",
-        "choice4_id": "choice4",
-        "choice4": "改まる",
-        "correctAnswer": "choice4",
-        "hints": "改まる：表示改變或更新\n\n争い：表示爭執或衝突\n\n荒らす：表示破壞或弄亂\n\n予め：表示事先準備",
-        "grammar": "因為規則(更新)了，請確認最新的手冊。\n\n規則(きそく)\n最新(さいしん)\nマニュアル\n\n改まる(あらたまる)：正確答案，表示規則「已變更」。\n\n争い(あらそい)：不正確，此處需要動詞而非名詞。\n\n荒らす(あらす)：不正確，語意為「破壞」，與題意相反。\n\n予め(あらかじめ)：不正確，為副詞且語意不符。"
-      }
-    ]
-  },
-  "status": 0,
-  "errMsgs": [],
-  "errorInfo": []
+"result": {
+"records": [
+{
+"question_id": "1",
+"question": "彼の意見には_____を唱えた。",
+"choice1_id": "choice1",
+"choice1": "あらぶ",
+"choice2_id": "choice2",
+"choice2": "ありのまま",
+"choice3_id": "choice3",
+"choice3": "あらっぽい",
+"choice4_id": "choice4",
+"choice4": "いぎ",
+"correctAnswer": "choice4",
+"hints": "アラブ：阿拉伯（地理名詞，非文法用語）\n\n有りのまま(ありのまま)：如實（副詞性用法）\n\n荒っぽい(あらっぽい)：粗魯的（形容詞）\n\n異議(いぎ)：異議（名詞，表反對意見）",
+"grammar": "題目漢字讀音：意見(いけん)\n\n解析：\nアラブ：與「提出反對意見」語境無關，純地理名詞\n\n有りのまま：需接續動詞使用，如「有りのまま伝える」，不能直接接助詞を\n\n荒っぽい：為形容詞，需修飾名詞如「荒っぽい態度」，無法作為被提出的對象\n\n異議：唯一可搭配「を唱える」慣用句，正確表達「提出異議」"
+},
+{
+"question_id": "2",
+"question": "_____に状況を説明してください。",
+"choice1_id": "choice1",
+"choice1": "アラブ",
+"choice2_id": "choice2",
+"choice2": "有りのまま",
+"choice3_id": "choice3",
+"choice3": "荒っぽい",
+"choice4_id": "choice4",
+"choice4": "異議",
+"correctAnswer": "choice2",
+"hints": "アラブ：專有名詞不適用修飾\n\n有りのまま：可作副詞修飾動詞\n\n荒っぽい：形容詞需接名詞\n\n異議：名詞無法修飾動詞",
+"grammar": "題目漢字讀音：状況(じょうきょう)、説明(せつめい)\n\n解析：\nアラブ：國家名稱完全不符合語境\n\n有りのまま：唯一可副詞性修飾「説明する」，表示「如實說明」\n\n荒っぽい：若使用需改為「荒っぽい説明」，但與請求禮貌語境矛盾\n\n異議：需搭配「に」時應為「異議がある」等用法，不能修飾說明方式"
+},
+{
+"question_id": "3",
+"question": "彼の_____な手法が問題を引き起こした。",
+"choice1_id": "choice1",
+"choice1": "アラブ",
+"choice2_id": "choice2",
+"choice2": "有りのまま",
+"choice3_id": "choice3",
+"choice3": "荒っぽい",
+"choice4_id": "choice4",
+"choice4": "異議",
+"correctAnswer": "choice3",
+"hints": "アラブ：非形容詞用法\n\n有りのまま：副詞不可接な\n\n荒っぽい：形容詞連體形正確\n\n異議：名詞需接の而非な",
+"grammar": "題目漢字讀音：手法(しゅほう)、問題(もんだい)\n\n解析：\nアラブ：專有名詞無形容詞變化形\n\n有りのまま：副詞用法不可接續な形容動詞活用\n\n荒っぽい：唯一正確な形容詞連體形，修飾「手法」表示粗魯方式\n\n異議：名詞接續應為「異議の手法」，但語意矛盾"
+},
+{
+"question_id": "4",
+"question": "この地域には_____系移民が多い。",
+"choice1_id": "choice1",
+"choice1": "アラブ",
+"choice2_id": "choice2",
+"choice2": "有りのまま",
+"choice3_id": "choice3",
+"choice3": "荒っぽい",
+"choice4_id": "choice4",
+"choice4": "異議",
+"correctAnswer": "choice1",
+"hints": "アラブ：可作名詞屬性接続\n\n有りのまま：無名詞屬性\n\n荒っぽい：形容詞無法接系\n\n異議：抽象名詞不適用",
+"grammar": "題目漢字讀音：地域(ちいき)、移民(いみん)\n\n解析：\nアラブ：唯一可接「系」構成「阿拉伯系」的專有名詞\n\n有りのまま：無名詞屬性，不能修飾「移民」\n\n荒っぽい：形容詞需改為「荒っぽい移民」但語意不通\n\n異議：抽象概念無法與「移民」形成合理搭配"
+}
+]
+},
+"status": 0,
+"errMsgs": [],
+"errorInfo": []
 }
