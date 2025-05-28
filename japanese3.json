@@ -2,424 +2,420 @@
   "result": {
     "records": [
       {
-        "question_id": "1",
-        "question": "彼の______な性格が会議の雰囲気を重くした",
-        "choice1_id": "choice1",
-        "choice1": "渦",
-        "choice2_id": "choice2",
-        "choice2": "器",
-        "choice3_id": "choice3",
-        "choice3": "腕前",
-        "choice4_id": "choice4",
-        "choice4": "陰気",
-        "correctAnswer": "choice4",
-        "hints": "陰気：形容負面氛圍\n渦：物理漩渦或混亂狀態\n器：容器或才能\n腕前：技能水平",
-        "grammar": "陰気(いんき)な：形容詞用法表消沉氛圍\n\n渦(うず)：需搭配『に巻き込まれる』等動詞\n器(うつわ)：常指具體物品或才能容量\n腕前(うでまえ)：需接技能評價"
-      },
-      {
-        "question_id": "2",
-        "question": "契約書に______を押すのを忘れた",
-        "choice1_id": "choice1",
-        "choice1": "内訳",
-        "choice2_id": "choice2",
-        "choice2": "印鑑",
-        "choice3_id": "choice3",
-        "choice3": "梅干し",
-        "choice4_id": "choice4",
-        "choice4": "嘘つき",
+        "question_id": 1,
+        "question": "この部屋は日当たりが悪く、いつも＿＿＿＿な雰囲気だ。",
+        "choices": [
+          {"id": "choice1", "text": "インフレ"},
+          {"id": "choice2", "text": "陰気(いんき)"},
+          {"id": "choice3", "text": "インターナショナル"},
+          {"id": "choice4", "text": "ウイルス"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "印鑑：正式印章\n内訳：明細清單\n梅干し：食品\n嘘つき：說謊者",
-        "grammar": "印鑑(いんかん)：法律文書用語\n\n内訳(うちわけ)：需接詳細內容\n梅干し(うめぼし)：屬具體名詞\n嘘つき(うそつき)：人格特質描述"
+        "hints": "陰気(いんき): 陰鬱な様子\nインフレ: 経済用語\nインターナショナル: 国際的な\nウイルス: 病原体",
+        "grammar": "陰気(いんき)が正解。暗く重苦しい雰囲気を表す。他は文脈に合わない"
       },
       {
-        "question_id": "3",
-        "question": "この企業は______な視点で市場分析を行っている",
-        "choice1_id": "choice1",
-        "choice1": "卑しい",
-        "choice2_id": "choice2",
-        "choice2": "インターナショナル",
-        "choice3_id": "choice3",
-        "choice3": "鬱陶しい",
-        "choice4_id": "choice4",
-        "choice4": "浮気",
+        "question_id": 2,
+        "question": "重要書類には＿＿＿＿を押す必要がある。",
+        "choices": [
+          {"id": "choice1", "text": "内訳(うちわけ)"},
+          {"id": "choice2", "text": "印鑑(いんかん)"},
+          {"id": "choice3", "text": "器(うつわ)"},
+          {"id": "choice4", "text": "梅干し(うめぼし)"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "インターナショナル：國際化視野\n卑しい：負面價值觀\n鬱陶しい：情緒感受\n浮気：感情不專",
-        "grammar": "インターナショナル：外來語修飾名詞\n\n卑しい(いやしい)：需接行為或性格\n鬱陶しい(うっとうしい)：主觀感受形容\n浮気(うわき)：需接男女關係"
+        "hints": "印鑑: 正式な印章\n内訳: 詳細な内容\n器: 容器\n梅干し: 食品",
+        "grammar": "印鑑(いんかん)が正解。公文書に使う印章を指す"
       },
       {
-        "question_id": "4",
-        "question": "______が続くと庶民の生活は苦しくなる",
-        "choice1_id": "choice1",
-        "choice1": "ウイルス",
-        "choice2_id": "choice2",
-        "choice2": "インフレ",
-        "choice3_id": "choice3",
-        "choice3": "産む",
-        "choice4_id": "choice4",
-        "choice4": "促す",
+        "question_id": 3,
+        "question": "この会議は＿＿＿＿な問題を扱うため多言語対応が必要だ。",
+        "choices": [
+          {"id": "choice1", "text": "鬱陶しい(うっとうしい)"},
+          {"id": "choice2", "text": "インターナショナル"},
+          {"id": "choice3", "text": "卑しい(いやしい)"},
+          {"id": "choice4", "text": "嘘つき(うそつき)"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "インフレ：經濟術語\nウイルス：醫學領域\n産む：生產行為\n促す：催促動作",
-        "grammar": "インフレ：『インフレーション』縮略形\n\nウイルス：需接感染相關動詞\n産む(うむ)：需接生產對象\n促す(うながす)：需接人為動作"
+        "hints": "インターナショナル: 国際的な\n鬱陶しい: 煩わしい\n卑しい: 下品な\n嘘つき: 虚言癖",
+        "grammar": "インターナショナルが正解。多言語対応が必要な国際会議の文脈"
       },
       {
-        "question_id": "5",
-        "question": "パソコンが______に感染してデータが消えた",
-        "choice1_id": "choice1",
-        "choice1": "ウイルス",
-        "choice2_id": "choice2",
-        "choice2": "いっそ",
-        "choice3_id": "choice3",
-        "choice3": "内訳",
-        "choice4_id": "choice4",
-        "choice4": "潤う",
-        "correctAnswer": "choice1",
-        "hints": "ウイルス：電腦病毒\nいっそ：副詞用法\n内訳：清單明細\n潤う：液體或經濟充裕",
-        "grammar": "ウイルス：與『感染する』固定搭配\n\nいっそ：需接提議性內容\n内訳(うちわけ)：前接數量詞\n潤う(うるおう)：需接資源或資金"
-      },
-      {
-        "question_id": "6",
-        "question": "失敗が続くなら______やめた方がいい",
-        "choice1_id": "choice1",
-        "choice1": "受け止める",
-        "choice2_id": "choice2",
-        "choice2": "いっそ",
-        "choice3_id": "choice3",
-        "choice3": "受け継ぐ",
-        "choice4_id": "choice4",
-        "choice4": "促す",
+        "question_id": 4,
+        "question": "物価上昇が続く＿＿＿＿現象に歯止めがかからない。",
+        "choices": [
+          {"id": "choice1", "text": "陰気(いんき)"},
+          {"id": "choice2", "text": "インフレ"},
+          {"id": "choice3", "text": "ウイルス"},
+          {"id": "choice4", "text": "渦(うず)"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "いっそ：決斷語氣副詞\n受け止める：理解接受\n受け継ぐ：繼承傳統\n促す：催促動作",
-        "grammar": "いっそ：常與『～たら/なら』呼應\n\n受け止める(うけとめる)：需接抽象概念\n受け継ぐ(うけつぐ)：需接文化財產\n促す(うながす)：需接具體行為"
+        "hints": "インフレ: インフレーション\n陰気: 気分が沈む\nウイルス: 病原体\n渦: 水流の渦巻き",
+        "grammar": "インフレが正解。物価上昇を表す経済用語"
       },
       {
-        "question_id": "7",
-        "question": "苦労してようやく司法試験に______",
-        "choice1_id": "choice1",
-        "choice1": "受かる",
-        "choice2_id": "choice2",
-        "choice2": "受け入れる",
-        "choice3_id": "choice3",
-        "choice3": "打ち込む",
-        "choice4_id": "choice4",
-        "choice4": "埋まる",
+        "question_id": 5,
+        "question": "＿＿＿＿感染予防にマスク着用が推奨されている。",
+        "choices": [
+          {"id": "choice1", "text": "ウイルス"},
+          {"id": "choice2", "text": "運賃(うんちん)"},
+          {"id": "choice3", "text": "腕前(うでまえ)"},
+          {"id": "choice4", "text": "浮気(うわき)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "受かる：通過考試\n受け入れる：接納意見\n打ち込む：專注行為\n埋まる：空間填滿",
-        "grammar": "受かる(うかる)：自動詞需接『に』\n\n受け入れる(うけいれる)：他動詞需接對象\n打ち込む(うちこむ)：需接熱衷事項\n埋まる(うまる)：需接場所名詞"
+        "hints": "ウイルス: 病原体\n運賃: 輸送費用\n腕前: 技能\n浮気: 不倫",
+        "grammar": "ウイルスが正解。感染症予防の文脈"
       },
       {
-        "question_id": "8",
-        "question": "移民政策について国民の意見を______必要がある",
-        "choice1_id": "choice1",
-        "choice1": "受け止める",
-        "choice2_id": "choice2",
-        "choice2": "受け入れる",
-        "choice3_id": "choice3",
-        "choice3": "打ち明ける",
-        "choice4_id": "choice4",
-        "choice4": "促す",
+        "question_id": 6,
+        "question": "こんなにコストがかかるなら＿＿＿＿中止しようか。",
+        "choices": [
+          {"id": "choice1", "text": "いっそ"},
+          {"id": "choice2", "text": "促す(うながす)"},
+          {"id": "choice3", "text": "受け止める(うけとめる)"},
+          {"id": "choice4", "text": "埋まる(うまる)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "いっそ: 思い切って\n促す: 催促する\n受け止める: 理解する\n埋まる: 満たされる",
+        "grammar": "いっそが正解。思い切った決断を表す副詞"
+      },
+      {
+        "question_id": 7,
+        "question": "難関試験に＿＿＿＿ときは嬉しくて泣いた。",
+        "choices": [
+          {"id": "choice1", "text": "受け入れる(うけいれる)"},
+          {"id": "choice2", "text": "受かる(うかる)"},
+          {"id": "choice3", "text": "受け継ぐ(うけつぐ)"},
+          {"id": "choice4", "text": "産む(うむ)"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "受け入れる：採納意見\n受け止める：情感理解\n打ち明ける：坦白秘密\n促す：時間性催促",
-        "grammar": "受け入れる(うけいれる)：政策層級用法\n\n受け止める(うけとめる)：個人情緒反應\n打ち明ける(うちあける)：需接隱私內容\n促す(うながす)：時間限制場合"
+        "hints": "受かる: 試験合格\n受け入れる: 受け付ける\n受け継ぐ: 継承する\n産む: 生み出す",
+        "grammar": "受かる(うかる)が正解。試験合格を表す自動詞"
       },
       {
-        "question_id": "9",
-        "question": "祖父から伝統工芸の技術を______ことになった",
-        "choice1_id": "choice1",
-        "choice1": "受け止める",
-        "choice2_id": "choice2",
-        "choice2": "受け継ぐ",
-        "choice3_id": "choice3",
-        "choice3": "打ち切る",
-        "choice4_id": "choice4",
-        "choice4": "浮気",
+        "question_id": 8,
+        "question": "異文化を＿＿＿＿柔軟な姿勢が国際社会では重要だ。",
+        "choices": [
+          {"id": "choice1", "text": "受け止める(うけとめる)"},
+          {"id": "choice2", "text": "受け入れる(うけいれる)"},
+          {"id": "choice3", "text": "打ち込む(うちこむ)"},
+          {"id": "choice4", "text": "促す(うながす)"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "受け継ぐ：技藝傳承\n受け止める：情感反應\n打ち切る：中止計劃\n浮気：不倫行為",
-        "grammar": "受け継ぐ(うけつぐ)：與『技術』固定搭配\n\n受け止める(うけとめる)：心理層面用法\n打ち切る(うちきる)：需接持續性活動\n浮気(うわき)：感情相關動詞"
+        "hints": "受け入れる: 受容する\n受け止める: 理解する\n打ち込む: 熱中する\n促す: 催促する",
+        "grammar": "受け入れる(うけいれる)が正解。異文化受容の文脈"
       },
       {
-        "question_id": "10",
-        "question": "彼女は批判を真摯に______姿勢を見せた",
-        "choice1_id": "choice1",
-        "choice1": "受け止める",
-        "choice2_id": "choice2",
-        "choice2": "産む",
-        "choice3_id": "choice3",
-        "choice3": "うたた寝",
-        "choice4_id": "choice4",
-        "choice4": "促す",
-        "correctAnswer": "choice1",
-        "hints": "受け止める：嚴肅面對\n産む：物理生產\nうたた寝：無意睡眠\n促す：催促行為",
-        "grammar": "受け止める(うけとめる)：與『批判』慣用搭配\n\n産む(うむ)：需接生物或結果\nうたた寝：非意志性動詞\n促す(うながす)：人際互動用法"
-      },
-      {
-        "question_id": "11",
-        "question": "______ような手段で金を得ようとするな",
-        "choice1_id": "choice1",
-        "choice1": "卑しい",
-        "choice2_id": "choice2",
-        "choice2": "器",
-        "choice3_id": "choice3",
-        "choice3": "潤う",
-        "choice4_id": "choice4",
-        "choice4": "浮気",
-        "correctAnswer": "choice1",
-        "hints": "卑しい：道德批判\n器：容量或才能\n潤う：資源充足\n浮気：感情不忠",
-        "grammar": "卑しい(いやしい)：修飾不當手段\n\n器(うつわ)：需接容量評價\n潤う(うるおう)：經濟狀況描述\n浮気(うわき)：男女關係範疇"
-      },
-      {
-        "question_id": "12",
-        "question": "議論が白熱する______に巻き込まれた",
-        "choice1_id": "choice1",
-        "choice1": "渦",
-        "choice2_id": "choice2",
-        "choice2": "陰気",
-        "choice3_id": "choice3",
-        "choice3": "内訳",
-        "choice4_id": "choice4",
-        "choice4": "梅干し",
-        "correctAnswer": "choice1",
-        "hints": "渦：比喻性混亂\n陰気：氛圍形容\n内訳：數據分類\n梅干し：具體物品",
-        "grammar": "渦(うず)：與『巻き込まれる』慣用句\n\n陰気(いんき)：修飾環境狀態\n内訳(うちわけ)：前接金額數量\n梅干し(うめぼし)：食品專有名詞"
-      },
-      {
-        "question_id": "13",
-        "question": "彼は有名な______で誰も信用しなくなった",
-        "choice1_id": "choice1",
-        "choice1": "嘘つき",
-        "choice2_id": "choice2",
-        "choice2": "腕前",
-        "choice3_id": "choice3",
-        "choice3": "産む",
-        "choice4_id": "choice4",
-        "choice4": "促す",
-        "correctAnswer": "choice1",
-        "hints": "嘘つき：人格特質\n腕前：技能程度\n産む：生產行為\n促す：催促動作",
-        "grammar": "嘘つき(うそつき)：名詞修飾用法\n\n腕前(うでまえ)：需接技術評價\n産む(うむ)：需接生產對象\n促す(うながす)：需接人為行動"
-      },
-      {
-        "question_id": "14",
-        "question": "友人に将来の不安を______気持ちが楽になった",
-        "choice1_id": "choice1",
-        "choice1": "打ち明ける",
-        "choice2_id": "choice2",
-        "choice2": "打ち切る",
-        "choice3_id": "choice3",
-        "choice3": "受け入れる",
-        "choice4_id": "choice4",
-        "choice4": "埋まる",
-        "correctAnswer": "choice1",
-        "hints": "打ち明ける：傾訴秘密\n打ち切る：中止計劃\n受け入れる：採納意見\n埋まる：空間填補",
-        "grammar": "打ち明ける(うちあける)：與『不安』情感搭配\n\n打ち切る(うちきる)：事業中止用法\n受け入れる(うけいれる)：政策層級動詞\n埋まる(うまる)：物理空間描述"
-      },
-      {
-        "question_id": "15",
-        "question": "予算不足でプロジェクトを______ざるを得ない",
-        "choice1_id": "choice1",
-        "choice1": "打ち込む",
-        "choice2_id": "choice2",
-        "choice2": "打ち切る",
-        "choice3_id": "choice3",
-        "choice3": "受け継ぐ",
-        "choice4_id": "choice4",
-        "choice4": "潤う",
+        "question_id": 9,
+        "question": "伝統工芸の技術を次の世代に＿＿＿＿ことが私たちの使命だ。",
+        "choices": [
+          {"id": "choice1", "text": "受け止める(うけとめる)"},
+          {"id": "choice2", "text": "受け継ぐ(うけつぐ)"},
+          {"id": "choice3", "text": "打ち明ける(うちあける)"},
+          {"id": "choice4", "text": "埋まる(うまる)"}
+        ],
         "correctAnswer": "choice2",
-        "hints": "打ち切る：被迫中止\n打ち込む：專注行為\n受け継ぐ：繼承傳統\n潤う：資源充足",
-        "grammar": "打ち切る(うちきる)：與『ざるを得ない』呼應\n\n打ち込む(うちこむ)：需接熱衷事項\n受け継ぐ(うけつぐ)：文化傳承用法\n潤う(うるおう)：經濟狀況描述"
+        "hints": "受け継ぐ: 継承する\n受け止める: 理解する\n打ち明ける: 告白する\n埋まる: 満たされる",
+        "grammar": "受け継ぐ(うけつぐ)が正解。技術継承を表す他動詞"
       },
       {
-        "question_id": "16",
-        "question": "研究に______毎日、研究室に籠もっている",
-        "choice1_id": "choice1",
-        "choice1": "打ち込む",
-        "choice2_id": "choice2",
-        "choice2": "受け止める",
-        "choice3_id": "choice3",
-        "choice3": "促す",
-        "choice4_id": "choice4",
-        "choice4": "埋まる",
+        "question_id": 10,
+        "question": "彼の深刻な表情から事態の重大さを＿＿＿＿。",
+        "choices": [
+          {"id": "choice1", "text": "受け止めた(うけとめた)"},
+          {"id": "choice2", "text": "打ち切った(うちきった)"},
+          {"id": "choice3", "text": "促した(うながした)"},
+          {"id": "choice4", "text": "上回った(うわまわった)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "打ち込む：全心投入\n受け止める：情感處理\n促す：催促行為\n埋まる：空間填補",
-        "grammar": "打ち込む(うちこむ)：與『研究』固定搭配\n\n受け止める(うけとめる)：心理層面動詞\n促す(うながす)：人際互動用法\n埋まる(うまる)：物理狀態描述"
+        "hints": "受け止める: 理解する\n打ち切る: 中止する\n促す: 催促する\n上回る: 超える",
+        "grammar": "受け止めた(うけとめた)が正解。状況を理解する意味"
       },
       {
-        "question_id": "17",
-        "question": "請求書の______を細かく確認する",
-        "choice1_id": "choice1",
-        "choice1": "内訳",
-        "choice2_id": "choice2",
-        "choice2": "印鑑",
-        "choice3_id": "choice3",
-        "choice3": "陰気",
-        "choice4_id": "choice4",
-        "choice4": "浮気",
+        "question_id": 11,
+        "question": "金銭に＿＿＿＿行為は社会から非難される。",
+        "choices": [
+          {"id": "choice1", "text": "卑しい(いやしい)"},
+          {"id": "choice2", "text": "陰気(いんき)"},
+          {"id": "choice3", "text": "鬱陶しい(うっとうしい)"},
+          {"id": "choice4", "text": "インターナショナル"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "内訳：明細清單\n印鑑：印章用途\n陰気：氛圍形容\n浮気：感情不專",
-        "grammar": "内訳(うちわけ)：與『請求書』商業用語\n\n印鑑(いんかん)：法律文書要件\n陰気(いんき)：環境氛圍修飾\n浮気(うわき)：男女關係範疇"
+        "hints": "卑しい: 欲深い\n陰気: 暗い\n鬱陶しい: 煩わしい\nインターナショナル: 国際的",
+        "grammar": "卑しい(いやしい)が正解。金銭欲が強い様子"
       },
       {
-        "question_id": "18",
-        "question": "梅雨時の______天気が続いて気分が沈む",
-        "choice1_id": "choice1",
-        "choice1": "鬱陶しい",
-        "choice2_id": "choice2",
-        "choice2": "インターナショナル",
-        "choice3_id": "choice3",
-        "choice3": "卑しい",
-        "choice4_id": "choice4",
-        "choice4": "器",
+        "question_id": 12,
+        "question": "議論が白熱する＿＿＿＿に巻き込まれた。",
+        "choices": [
+          {"id": "choice1", "text": "渦(うず)"},
+          {"id": "choice2", "text": "器(うつわ)"},
+          {"id": "choice3", "text": "内訳(うちわけ)"},
+          {"id": "choice4", "text": "梅干し(うめぼし)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "鬱陶しい：天氣悶濕\nインターナショナル：國際化\n卑しい：道德低下\n器：容器功能",
-        "grammar": "鬱陶しい(うっとうしい)：天氣專用形容詞\n\nインターナショナル：外來語修飾\n卑しい(いやしい)：人性負面評價\n器(うつわ)：具體物品名稱"
+        "hints": "渦: 巻き込まれる状況\n器: 容器\n内訳: 詳細\n梅干し: 食品",
+        "grammar": "渦(うず)が正解。議論の激しい状況を比喩"
       },
       {
-        "question_id": "19",
-        "question": "この______は江戸時代から伝わる骨董品だ",
-        "choice1_id": "choice1",
-        "choice1": "器",
-        "choice2_id": "choice2",
-        "choice2": "ウイルス",
-        "choice3_id": "choice3",
-        "choice3": "嘘つき",
-        "choice4_id": "choice4",
-        "choice4": "渦",
+        "question_id": 13,
+        "question": "＿＿＿＿は信用を失う最大の原因だ。",
+        "choices": [
+          {"id": "choice1", "text": "嘘つき(うそつき)"},
+          {"id": "choice2", "text": "腕前(うでまえ)"},
+          {"id": "choice3", "text": "産む(うむ)"},
+          {"id": "choice4", "text": "潤う(うるおう)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "器：古董容器\nウイルス：病原體\n嘘つき：說謊者\n渦：混亂狀態",
-        "grammar": "器(うつわ)：與『骨董品』屬性一致\n\nウイルス：醫學領域用語\n嘘つき(うそつき)：人格特質描述\n渦(うず)：比喻性混亂狀態"
+        "hints": "嘘つき: 虚言癖\n腕前: 技能\n産む: 生む\n潤う: 湿る",
+        "grammar": "嘘つき(うそつき)が正解。信用喪失の原因として適切"
       },
       {
-        "question_id": "20",
-        "question": "上司に______ようにプロジェクトの進行が速まった",
-        "choice1_id": "choice1",
-        "choice1": "促す",
-        "choice2_id": "choice2",
-        "choice2": "受け入れる",
-        "choice3_id": "choice3",
-        "choice3": "産む",
-        "choice4_id": "choice4",
-        "choice4": "埋まる",
+        "question_id": 14,
+        "question": "悩みを友人に＿＿＿＿ら気持ちが軽くなった。",
+        "choices": [
+          {"id": "choice1", "text": "打ち明けた(うちあけた)"},
+          {"id": "choice2", "text": "打ち切った(うちきった)"},
+          {"id": "choice3", "text": "打ち込んだ(うちこんだ)"},
+          {"id": "choice4", "text": "促した(うながした)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "促す：加速進程\n受け入れる：採納意見\n産む：產生結果\n埋まる：空間填補",
-        "grammar": "促す(うながす)：與『進行』業務用語\n\n受け入れる(うけいれる)：需接提案內容\n産む(うむ)：結果產生用法\n埋まる(うまる)：物理空間描述"
+        "hints": "打ち明ける: 告白する\n打ち切る: 中止する\n打ち込む: 熱中する\n促す: 催促する",
+        "grammar": "打ち明けた(うちあけた)が正解。悩みを告白する意味"
       },
       {
-        "question_id": "21",
-        "question": "工事現場の穴が完全に______安全になった",
-        "choice1_id": "choice1",
-        "choice1": "埋まる",
-        "choice2_id": "choice2",
-        "choice2": "潤う",
-        "choice3_id": "choice3",
-        "choice3": "浮気",
-        "choice4_id": "choice4",
-        "choice4": "陰気",
-        "correctAnswer": "choice1",
-        "hints": "埋まる：物理填平\n潤う：資源充足\n浮気：感情不忠\n陰気：氛圍陰沉",
-        "grammar": "埋まる(うまる)：與『穴』物理變化\n\n潤う(うるおう)：經濟或資源狀態\n浮気(うわき)：人際關係用語\n陰気(いんき)：環境氛圍修飾"
+        "question_id": 15,
+        "question": "予算不足でプロジェクトを＿＿＿＿ことになった。",
+        "choices": [
+          {"id": "choice1", "text": "打ち明ける(うちあける)"},
+          {"id": "choice2", "text": "打ち切る(うちきる)"},
+          {"id": "choice3", "text": "打ち込む(うちこむ)"},
+          {"id": "choice4", "text": "受け継ぐ(うけつぐ)"}
+        ],
+        "correctAnswer": "choice2",
+        "hints": "打ち切る: 中止する\n打ち明ける: 告白する\n打ち込む: 熱中する\n受け継ぐ: 継承する",
+        "grammar": "打ち切る(うちきる)が正解。プロジェクト中止を表す"
       },
       {
-        "question_id": "22",
-        "question": "彼の音楽の才能は______のものだ",
-        "choice1_id": "choice1",
-        "choice1": "生まれつき",
-        "choice2_id": "choice2",
-        "choice2": "うたた寝",
-        "choice3_id": "choice3",
-        "choice3": "梅干し",
-        "choice4_id": "choice4",
-        "choice4": "内訳",
-        "correctAnswer": "choice1",
-        "hints": "生まれつき：天賦才能\nうたた寝：無意睡眠\n梅干し：食品名稱\n内訳：明細清單",
-        "grammar": "生まれつき：與『才能』天賦表現\n\nうたた寝：非意志性動作\n梅干し(うめぼし)：具體物品名詞\n内訳(うちわけ)：數據分類用語"
+        "question_id": 16,
+        "question": "研究に＿＿＿＿毎日が続いている。",
+        "choices": [
+          {"id": "choice1", "text": "打ち明ける(うちあける)"},
+          {"id": "choice2", "text": "打ち込む(うちこむ)"},
+          {"id": "choice3", "text": "促す(うながす)"},
+          {"id": "choice4", "text": "潤う(うるおう)"}
+        ],
+        "correctAnswer": "choice2",
+        "hints": "打ち込む: 没頭する\n打ち明ける: 告白する\n促す: 催促する\n潤う: 湿る",
+        "grammar": "打ち込む(うちこむ)が正解。研究に熱中する様子"
       },
       {
-        "question_id": "23",
-        "question": "電車で______して乗り過ごしてしまった",
-        "choice1_id": "choice1",
-        "choice1": "うたた寝",
-        "choice2_id": "choice2",
-        "choice2": "受け止める",
-        "choice3_id": "choice3",
-        "choice3": "打ち込む",
-        "choice4_id": "choice4",
-        "choice4": "促す",
+        "question_id": 17,
+        "question": "経費の＿＿＿＿を詳細に確認する。",
+        "choices": [
+          {"id": "choice1", "text": "内訳(うちわけ)"},
+          {"id": "choice2", "text": "腕前(うでまえ)"},
+          {"id": "choice3", "text": "産む(うむ)"},
+          {"id": "choice4", "text": "潤う(うるおう)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "うたた寝：無意睡眠\n受け止める：情感處理\n打ち込む：專注行為\n促す：催促動作",
-        "grammar": "うたた寝：與『乗り過ごす』情境搭配\n\n受け止める(うけとめる)：心理層面動詞\n打ち込む(うちこむ)：熱衷狀態描述\n促す(うながす)：人際互動用法"
+        "hints": "内訳: 詳細な内容\n腕前: 技能\n産む: 生む\n潤う: 湿る",
+        "grammar": "内訳(うちわけ)が正解。経費の詳細項目を指す"
       },
       {
-        "question_id": "24",
-        "question": "彼の料理の______はプロ級だ",
-        "choice1_id": "choice1",
-        "choice1": "腕前",
-        "choice2_id": "choice2",
-        "choice2": "器",
-        "choice3_id": "choice3",
-        "choice3": "渦",
-        "choice4_id": "choice4",
-        "choice4": "陰気",
+        "question_id": 18,
+        "question": "梅雨時の＿＿＿＿天気が続く。",
+        "choices": [
+          {"id": "choice1", "text": "鬱陶しい(うっとうしい)"},
+          {"id": "choice2", "text": "卑しい(いやしい)"},
+          {"id": "choice3", "text": "陰気(いんき)"},
+          {"id": "choice4", "text": "インターナショナル"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "腕前：技能水平\n器：容器或才能\n渦：混亂狀態\n陰気：氛圍陰沉",
-        "grammar": "腕前(うでまえ)：與『プロ級』評價呼應\n\n器(うつわ)：才能容量比喻\n渦(うず)：物理或比喻混亂\n陰気(いんき)：環境氛圍描述"
+        "hints": "鬱陶しい: 煩わしい\n卑しい: 下品\n陰気: 暗い\nインターナショナル: 国際的",
+        "grammar": "鬱陶しい(うっとうしい)が正解。梅雨の不快な天気を表現"
       },
       {
-        "question_id": "25",
-        "question": "彼女は新しい理論を______ことで学界に衝撃を与えた",
-        "choice1_id": "choice1",
-        "choice1": "産む",
-        "choice2_id": "choice2",
-        "choice2": "受け入れる",
-        "choice3_id": "choice3",
-        "choice3": "埋まる",
-        "choice4_id": "choice4",
-        "choice4": "浮気",
+        "question_id": 19,
+        "question": "この＿＿＿＿は江戸時代から伝わる貴重な陶器だ。",
+        "choices": [
+          {"id": "choice1", "text": "器(うつわ)"},
+          {"id": "choice2", "text": "渦(うず)"},
+          {"id": "choice3", "text": "内訳(うちわけ)"},
+          {"id": "choice4", "text": "梅干し(うめぼし)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "産む：創造成果\n受け入れる：採納意見\n埋まる：空間填補\n浮気：感情不忠",
-        "grammar": "産む(うむ)：與『理論』抽象產物搭配\n\n受け入れる(うけいれる)：需接外部輸入概念\n埋まる(うまる)：物理空間狀態\n浮気(うわき)：人際關係範疇"
+        "hints": "器: 容器\n渦: 渦巻き\n内訳: 詳細\n梅干し: 食品",
+        "grammar": "器(うつわ)が正解。陶器を指す名詞"
       },
       {
-        "question_id": "26",
-        "question": "弁当に______を入れると食欲が増す",
-        "choice1_id": "choice1",
-        "choice1": "梅干し",
-        "choice2_id": "choice2",
-        "choice2": "印鑑",
-        "choice3_id": "choice3",
-        "choice3": "嘘つき",
-        "choice4_id": "choice4",
-        "choice4": "渦",
+        "question_id": 20,
+        "question": "遅れている作業を＿＿＿＿ため、頻繁に連絡した。",
+        "choices": [
+          {"id": "choice1", "text": "促す(うながす)"},
+          {"id": "choice2", "text": "受け止める(うけとめる)"},
+          {"id": "choice3", "text": "埋まる(うまる)"},
+          {"id": "choice4", "text": "浮気(うわき)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "梅干し：開胃食品\n印鑑：印章用途\n嘘つき：說謊者\n渦：混亂狀態",
-        "grammar": "梅干し(うめぼし)：與『食欲』飲食關聯\n\n印鑑(いんかん)：法律文書用語\n嘘つき(うそつき)：人格負面評價\n渦(うず)：物理現象描述"
+        "hints": "促す: 催促する\n受け止める: 理解する\n埋まる: 満たされる\n浮気: 不倫",
+        "grammar": "促す(うながす)が正解。作業を催促する意味"
       },
       {
-        "question_id": "27",
-        "question": "資金が______ことで事業拡大が可能になった",
-        "choice1_id": "choice1",
-        "choice1": "潤う",
-        "choice2_id": "choice2",
-        "choice2": "打ち切る",
-        "choice3_id": "choice3",
-        "choice3": "卑しい",
-        "choice4_id": "choice4",
-        "choice4": "うたた寝",
+        "question_id": 21,
+        "question": "工事現場の穴が土で＿＿＿＿いた。",
+        "choices": [
+          {"id": "choice1", "text": "埋まって(うまって)"},
+          {"id": "choice2", "text": "産んで(うんで)"},
+          {"id": "choice3", "text": "潤って(うるおって)"},
+          {"id": "choice4", "text": "上回って(うわまわって)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "潤う：資金充裕\n打ち切る：中止計劃\n卑しい：道德低下\nうたた寝：無意睡眠",
-        "grammar": "潤う(うるおう)：與『資金』經濟用語\n\n打ち切る(うちきる)：計劃中止用法\n卑しい(いやしい)：負面道德評價\nうたた寝：非意志性動作"
+        "hints": "埋まる: 満たされる\n産む: 生む\n潤う: 湿る\n上回る: 超える",
+        "grammar": "埋まって(うまって)が正解。穴が土で満たされる様子"
       },
       {
-        "question_id": "28",
-        "question": "______がばれて妻に離婚を申し渡された",
-        "choice1_id": "choice1",
-        "choice1": "浮気",
-        "choice2_id": "choice2",
-        "choice2": "インフレ",
-        "choice3_id": "choice3",
-        "choice3": "インターナショナル",
-        "choice4_id": "choice4",
-        "choice4": "ウイルス",
+        "question_id": 22,
+        "question": "彼の音楽的才能は＿＿＿＿のものだ。",
+        "choices": [
+          {"id": "choice1", "text": "生まれつき"},
+          {"id": "choice2", "text": "うたた寝"},
+          {"id": "choice3", "text": "腕前(うでまえ)"},
+          {"id": "choice4", "text": "梅干し(うめぼし)"}
+        ],
         "correctAnswer": "choice1",
-        "hints": "浮気：婚姻不忠\nインフレ：經濟現象\nインターナショナル：國際化\nウイルス：病原體",
-        "grammar": "浮気(うわき)：與『離婚』家庭關係用語\n\nインフレ：經濟術語縮寫\nインターナショナル：外來語修飾\nウイルス：醫學領域名詞"
+        "hints": "生まれつき: 天性\nうたた寝: 居眠り\n腕前: 技能\n梅干し: 食品",
+        "grammar": "生まれつきが正解。先天的な才能を表す"
+      },
+      {
+        "question_id": 23,
+        "question": "電車で＿＿＿＿してしまい、乗り過ごした。",
+        "choices": [
+          {"id": "choice1", "text": "うたた寝"},
+          {"id": "choice2", "text": "産む(うむ)"},
+          {"id": "choice3", "text": "潤う(うるおう)"},
+          {"id": "choice4", "text": "浮気(うわき)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "うたた寝: 居眠り\n産む: 生む\n潤う: 湿る\n浮気: 不倫",
+        "grammar": "うたた寝が正解。電車での軽い睡眠を表す"
+      },
+      {
+        "question_id": 24,
+        "question": "彼の料理の＿＿＿＿はプロ級だ。",
+        "choices": [
+          {"id": "choice1", "text": "腕前(うでまえ)"},
+          {"id": "choice2", "text": "内訳(うちわけ)"},
+          {"id": "choice3", "text": "器(うつわ)"},
+          {"id": "choice4", "text": "梅干し(うめぼし)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "腕前: 技能\n内訳: 詳細\n器: 容器\n梅干し: 食品",
+        "grammar": "腕前(うでまえ)が正解。料理の技能レベルを表す"
+      },
+      {
+        "question_id": 25,
+        "question": "彼女は先月、健康な男の子を＿＿＿＿。",
+        "choices": [
+          {"id": "choice1", "text": "産んだ(うんだ)"},
+          {"id": "choice2", "text": "埋まった(うまった)"},
+          {"id": "choice3", "text": "潤った(うるおった)"},
+          {"id": "choice4", "text": "上回った(うわまわった)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "産む: 出産する\n埋まる: 満たされる\n潤う: 湿る\n上回る: 超える",
+        "grammar": "産んだ(うんだ)が正解。出産を表す動詞"
+      },
+      {
+        "question_id": 26,
+        "question": "＿＿＿＿の入ったおにぎりが好きだ。",
+        "choices": [
+          {"id": "choice1", "text": "梅干し(うめぼし)"},
+          {"id": "choice2", "text": "渦(うず)"},
+          {"id": "choice3", "text": "内訳(うちわけ)"},
+          {"id": "choice4", "text": "器(うつわ)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "梅干し: 漬物\n渦: 渦巻き\n内訳: 詳細\n器: 容器",
+        "grammar": "梅干し(うめぼし)が正解。おにぎりの具材"
+      },
+      {
+        "question_id": 27,
+        "question": "収入が増えて家計が＿＿＿＿きた。",
+        "choices": [
+          {"id": "choice1", "text": "潤って(うるおって)"},
+          {"id": "choice2", "text": "埋まって(うまって)"},
+          {"id": "choice3", "text": "産んで(うんで)"},
+          {"id": "choice4", "text": "浮気して(うわきして)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "潤う: 豊かになる\n埋まる: 満たされる\n産む: 生む\n浮気: 不倫",
+        "grammar": "潤って(うるおって)が正解。経済的余裕ができる様子"
+      },
+      {
+        "question_id": 28,
+        "question": "＿＿＿＿がバレて夫婦関係が険悪になった。",
+        "choices": [
+          {"id": "choice1", "text": "浮気(うわき)"},
+          {"id": "choice2", "text": "上回る(うわまわる)"},
+          {"id": "choice3", "text": "うんざり"},
+          {"id": "choice4", "text": "運送(うんそう)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "浮気: 不倫\n上回る: 超える\nうんざり: 飽き飽き\n運送: 貨物輸送",
+        "grammar": "浮気(うわき)が正解。婚姻関係のトラブル原因"
+      },
+      {
+        "question_id": 29,
+        "question": "今年の売上は昨年を＿＿＿＿見込みだ。",
+        "choices": [
+          {"id": "choice1", "text": "上回る(うわまわる)"},
+          {"id": "choice2", "text": "うんざり"},
+          {"id": "choice3", "text": "運送(うんそう)"},
+          {"id": "choice4", "text": "運賃(うんちん)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "上回る: 超える\nうんざり: 飽き飽き\n運送: 貨物輸送\n運賃: 輸送費用",
+        "grammar": "上回る(うわまわる)が正解。数値が前年を超える意味"
+      },
+      {
+        "question_id": 30,
+        "question": "同じ話を何度も聞かされて＿＿＿＿した。",
+        "choices": [
+          {"id": "choice1", "text": "うんざり"},
+          {"id": "choice2", "text": "運送(うんそう)"},
+          {"id": "choice3", "text": "運賃(うんちん)"},
+          {"id": "choice4", "text": "上回る(うわまわる)"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "うんざり: 飽き飽き\n運送: 貨物輸送\n運賃: 輸送費用\n上回る: 超える",
+        "grammar": "うんざりが正解。繰り返しに嫌気が差す様子"
+      },
+      {
+        "question_id": 31,
+        "question": "海外への商品＿＿＿＿には特別な包装が必要だ。",
+        "choices": [
+          {"id": "choice1", "text": "運送(うんそう)"},
+          {"id": "choice2", "text": "運賃(うんちん)"},
+          {"id": "choice3", "text": "上回る(うわまわる)"},
+          {"id": "choice4", "text": "うんざり"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "運送: 貨物輸送\n運賃: 輸送費用\n上回る: 超える\nうんざり: 飽き飽き",
+        "grammar": "運送(うんそう)が正解。商品輸送を指す名詞"
+      },
+      {
+        "question_id": 32,
+        "question": "トラック＿＿＿＿の値上げが業界に影響を与えている。",
+        "choices": [
+          {"id": "choice1", "text": "運賃(うんちん)"},
+          {"id": "choice2", "text": "運送(うんそう)"},
+          {"id": "choice3", "text": "上回る(うわまわる)"},
+          {"id": "choice4", "text": "うんざり"}
+        ],
+        "correctAnswer": "choice1",
+        "hints": "運賃: 輸送費用\n運送: 貨物輸送\n上回る: 超える\nうんざり: 飽き飽き",
+        "grammar": "運賃(うんちん)が正解。輸送コストを指す"
       }
     ]
   },
