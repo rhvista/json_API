@@ -228,7 +228,7 @@
       },
       {
         "question_id": "16",
-        "question": "お弁当に(うめぼ)しを入れた。",
+        "question": "お弁当に_____しを入れた。",
         "choice1_id": "choice1",
         "choice1": "産む",
         "choice2_id": "choice2",
@@ -243,7 +243,7 @@
       },
       {
         "question_id": "17",
-        "question": "新しい政策で地域経済が(うるお)った。",
+        "question": "新しい政策で地域経済が_____った。",
         "choice1_id": "choice1",
         "choice1": "浮気",
         "choice2_id": "choice2",
@@ -258,7 +258,7 @@
       },
       {
         "question_id": "18",
-        "question": "(うわき)が原因で離婚することになった。",
+        "question": "_____が原因で離婚することになった。",
         "choice1_id": "choice1",
         "choice1": "潤う",
         "choice2_id": "choice2",
@@ -273,7 +273,7 @@
       },
       {
         "question_id": "19",
-        "question": "今月の売上は予想を(うわま)わった。",
+        "question": "今月の売上は予想を_____わった。",
         "choice1_id": "choice1",
         "choice1": "浮気",
         "choice2_id": "choice2",
@@ -288,7 +288,7 @@
       },
       {
         "question_id": "20",
-        "question": "毎日同じ料理で(うんざ)りしている。",
+        "question": "毎日同じ料理で_____りしている。",
         "choice1_id": "choice1",
         "choice1": "運送",
         "choice2_id": "choice2",
@@ -303,7 +303,7 @@
       },
       {
         "question_id": "21",
-        "question": "荷物を(うんそう)で送った。",
+        "question": "荷物を_____で送った。",
         "choice1_id": "choice1",
         "choice1": "運命",
         "choice2_id": "choice2",
@@ -318,7 +318,7 @@
       },
       {
         "question_id": "22",
-        "question": "タクシーの(うんちん)が高騰している。",
+        "question": "タクシーの_____が高騰している。",
         "choice1_id": "choice1",
         "choice1": "運送",
         "choice2_id": "choice2",
@@ -333,7 +333,7 @@
       },
       {
         "question_id": "23",
-        "question": "ライオンが(えもの)を狙っている。",
+        "question": "ライオンが_____を狙っている。",
         "choice1_id": "choice1",
         "choice1": "運賃",
         "choice2_id": "choice2",
@@ -348,7 +348,7 @@
       },
       {
         "question_id": "24",
-        "question": "彼女の(えれがんと)な振る舞いに魅了された。",
+        "question": "彼女の_____な振る舞いに魅了された。",
         "choice1_id": "choice1",
         "choice1": "獲物",
         "choice2_id": "choice2",
@@ -363,7 +363,7 @@
       },
       {
         "question_id": "25",
-        "question": "人工(えいせい)の打ち上げに成功した。",
+        "question": "人工_____の打ち上げに成功した。",
         "choice1_id": "choice1",
         "choice1": "エレガント",
         "choice2_id": "choice2",
@@ -378,7 +378,7 @@
       },
       {
         "question_id": "26",
-        "question": "これは私たちの(うんめい)だと思い諦めた。",
+        "question": "これは私たちの_____だと思い諦めた。",
         "choice1_id": "choice1",
         "choice1": "衛星",
         "choice2_id": "choice2",
@@ -393,7 +393,7 @@
       },
       {
         "question_id": "27",
-        "question": "交渉を(えんかつ)に進めるための準備が必要だ。",
+        "question": "交渉を_____に進めるための準備が必要だ。",
         "choice1_id": "choice1",
         "choice1": "婉曲",
         "choice2_id": "choice2",
@@ -408,7 +408,7 @@
       },
       {
         "question_id": "28",
-        "question": "(えんきょく)に断るほうが相手を傷つけにくい。",
+        "question": "_____に断るほうが相手を傷つけにくい。",
         "choice1_id": "choice1",
         "choice1": "円滑",
         "choice2_id": "choice2",
@@ -423,7 +423,7 @@
       },
       {
         "question_id": "29",
-        "question": "ソフトウェア(えんじにあ)として転職した。",
+        "question": "ソフトウェア_____として転職した。",
         "choice1_id": "choice1",
         "choice1": "円満",
         "choice2_id": "choice2",
@@ -438,7 +438,7 @@
       },
       {
         "question_id": "30",
-        "question": "夫婦(えんまん)に別れることができた。",
+        "question": "夫婦_____に別れることができた。",
         "choice1_id": "choice1",
         "choice1": "エンジニア",
         "choice2_id": "choice2",
@@ -453,7 +453,7 @@
       },
       {
         "question_id": "31",
-        "question": "この村は古い慣習を(うけつ)いでいる。",
+        "question": "この村は古い慣習を_____いでいる。",
         "choice1_id": "choice1",
         "choice1": "受け止める",
         "choice2_id": "choice2",
@@ -468,7 +468,7 @@
       },
       {
         "question_id": "32",
-        "question": "台風の影響で電車が(う)んそうできない。",
+        "question": "台風の影響で電車が_____んそうできない。",
         "choice1_id": "choice1",
         "choice1": "運命",
         "choice2_id": "choice2",
@@ -483,7 +483,7 @@
       },
       {
         "question_id": "33",
-        "question": "この事件は彼の(うんめい)を変えた。",
+        "question": "この事件は彼の_____を変えた。",
         "choice1_id": "choice1",
         "choice1": "運送",
         "choice2_id": "choice2",
@@ -498,7 +498,7 @@
       },
       {
         "question_id": "34",
-        "question": "この書類に(いんかん)を押してください。",
+        "question": "この書類に_____を押してください。",
         "choice1_id": "choice1",
         "choice1": "陰気",
         "choice2_id": "choice2",
@@ -513,7 +513,7 @@
       },
       {
         "question_id": "35",
-        "question": "彼の(いんき)な笑い方が不気味だ。",
+        "question": "彼の_____な笑い方が不気味だ。",
         "choice1_id": "choice1",
         "choice1": "印鑑",
         "choice2_id": "choice2",
@@ -528,7 +528,7 @@
       },
       {
         "question_id": "36",
-        "question": "この会社は(いんたーなしょなる)な視点を持っている。",
+        "question": "この会社は_____な視点を持っている。",
         "choice1_id": "choice1",
         "choice1": "陰気",
         "choice2_id": "choice2",
@@ -543,7 +543,7 @@
       },
       {
         "question_id": "37",
-        "question": "(いんふれ)対策として預金を増やした。",
+        "question": "_____対策として預金を増やした。",
         "choice1_id": "choice1",
         "choice1": "インターナショナル",
         "choice2_id": "choice2",
@@ -558,7 +558,7 @@
       },
       {
         "question_id": "38",
-        "question": "パソコンが(ういるす)に感染した。",
+        "question": "パソコンが_____に感染した。",
         "choice1_id": "choice1",
         "choice1": "いっそ",
         "choice2_id": "choice2",
@@ -573,7 +573,7 @@
       },
       {
         "question_id": "39",
-        "question": "失敗ばかりなら(いっそ)やめてしまおう。",
+        "question": "失敗ばかりなら_____やめてしまおう。",
         "choice1_id": "choice1",
         "choice1": "ウイルス",
         "choice2_id": "choice2",
@@ -588,7 +588,7 @@
       },
       {
         "question_id": "40",
-        "question": "試験に(うか)って喜んでいる。",
+        "question": "試験に_____って喜んでいる。",
         "choice1_id": "choice1",
         "choice1": "受け入れる",
         "choice2_id": "choice2",
