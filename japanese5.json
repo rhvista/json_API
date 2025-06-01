@@ -1,69 +1,69 @@
 {
-  "result": {
-    "records": [
-      {
-        "question_id": "1",
-        "question": "時間(じかん)を_____のが上手(じょうず)な人は、人生(じんせい)を豊(ゆた)かに過(す)ごせる。",
-        "choice1_id": "choice1",
-        "choice1": "落ち込む",
-        "choice2_id": "choice2",
-        "choice2": "落ち葉",
-        "choice3_id": "choice3",
-        "choice3": "お手上げ",
-        "choice4_id": "choice4",
-        "choice4": "惜しむ",
-        "correctAnswer": "choice4",
-        "hints": "惜しむ：珍惜時間，符合句意\n\n落ち込む：情緒低落，與時間無關\n\n落ち葉：落葉，為名詞無法接時間\n\nお手上げ：束手無策，與句意矛盾",
-        "grammar": "時間(じかん)を惜(お)しむ：珍惜時間\n\n惜(お)しむ為他動詞，需接賓語を\n\n落(お)ち込(こ)む為自動詞，多用於情緒描述\n\n落(お)ち葉(ば)為名詞無法接を\n\nお手上(てあ)げ是放棄狀態，無法接時間"
-      },
-      {
-        "question_id": "2",
-        "question": "試験(しけん)に失敗(しっぱい)して_____いたら、先輩(せんぱい)が励(はげ)ましてくれた。",
-        "choice1_id": "choice1",
-        "choice1": "お手上げ",
-        "choice2_id": "choice2",
-        "choice2": "惜しむ",
-        "choice3_id": "choice3",
-        "choice3": "落ち葉",
-        "choice4_id": "choice4",
-        "choice4": "落ち込む",
-        "correctAnswer": "choice4",
-        "hints": "落ち込む：因失敗而消沉，符合情境\n\nお手上げ：完全放棄，與被鼓勵矛盾\n\n惜しむ：未表現情緒狀態\n\n落ち葉：名詞無法描述心理",
-        "grammar": "落(お)ち込(こ)んでいた：持續低落狀態\n\nて形＋いる表狀態\n\nお手上(てあ)げ是名詞化表現\n\n惜(お)しむ需接具體對象\n\n落(お)ち葉(ば)是季節性名詞"
-      },
-      {
-        "question_id": "3",
-        "question": "秋(あき)の公園(こうえん)は_____が積(つ)もって、まるで絨毯(じゅうたん)のようだ。",
-        "choice1_id": "choice1",
-        "choice1": "惜しむ",
-        "choice2_id": "choice2",
-        "choice2": "落ち込む",
-        "choice3_id": "choice3",
-        "choice3": "お手上げ",
-        "choice4_id": "choice4",
-        "choice4": "落ち葉",
-        "correctAnswer": "choice4",
-        "hints": "落ち葉：秋季自然景象，唯一名詞選項\n\n惜しむ：動詞無法作主語\n\n落ち込む：情緒動詞不符\n\nお手上げ：抽象概念無法堆積",
-        "grammar": "落(お)ち葉(ば)が主語：自然現象描述\n\nが表示主語\n\n惜(お)しむ是他動詞需接を\n\n落(お)ち込(こ)む需以人為主語\n\nお手上(てあ)げ是狀態名詞"
-      },
-      {
-        "question_id": "4",
-        "question": "この数学問題(すうがくもんだい)は難(むずか)しすぎて_____だ。",
-        "choice1_id": "choice1",
-        "choice1": "落ち葉",
-        "choice2_id": "choice2",
-        "choice2": "惜しむ",
-        "choice3_id": "choice3",
-        "choice3": "落ち込む",
-        "choice4_id": "choice4",
-        "choice4": "お手上げ",
-        "correctAnswer": "choice4",
-        "hints": "お手上げ：面對困難放棄，固定用法\n\n落ち葉：完全無關\n\n惜しむ：需接價值對象\n\n落ち込む：未達情緒層面",
-        "grammar": "お手上(てあ)げだ：放棄的終止形\n\nだ結尾表斷定\n\n落(お)ち葉(ば)是具體名詞\n\n惜(お)しむ需有珍惜對象\n\n落(お)ち込(こ)む描述心理狀態"
-      }
-    ]
-  },
-  "status": 0,
-  "errMsgs": [],
-  "errorInfo": []
+"result": {
+"records": [
+{
+"question_id": "1",
+"question": "彼とは______で、幼馴染みなんです。",
+"choice1_id": "choice1",
+"choice1": "同い年（おないどし）",
+"choice2_id": "choice2",
+"choice2": "おむつ",
+"choice3_id": "choice3",
+"choice3": "おどおど",
+"choice4_id": "choice4",
+"choice4": "思い付き（おもいつき）",
+"correctAnswer": "choice1",
+"hints": "同い年（おないどし）: 表示同年齡的人\n\nおむつ: 尿布，與年齡無關\n\nおどおど: 形容膽怯的樣子，不符合語境\n\n思い付き（おもいつき）: 指突然的想法，與上下文無關",
+"grammar": "彼(かれ)とは同(おな)い年(どし)で、幼馴染(おさななじ)みなんです。\n\n同い年（おないどし）: 正確答案，表示兩人同年齡\n\nおむつ: 意思不相關，錯誤選項\n\nおどおど: 語意不符，錯誤選項\n\n思い付き（おもいつき）: 與句子主題無關，錯誤選項"
+},
+{
+"question_id": "2",
+"question": "赤ちゃんが泣いているから、______を替えてあげて。",
+"choice1_id": "choice1",
+"choice1": "同い年（おないどし）",
+"choice2_id": "choice2",
+"choice2": "おむつ",
+"choice3_id": "choice3",
+"choice3": "おどおど",
+"choice4_id": "choice4",
+"choice4": "思い付き（おもいつき）",
+"correctAnswer": "choice2",
+"hints": "同い年（おないどし）: 與嬰兒照護無關\n\nおむつ: 正確答案，指需要更換的尿布\n\nおどおど: 形容詞，無法作為更換對象\n\n思い付き（おもいつき）: 與情境完全無關",
+"grammar": "赤(あか)ちゃんが泣(な)いているから、おむつを替(か)えてあげて。\n\n同い年（おないどし）: 與嬰兒照護無關，錯誤選項\n\nおむつ: 正確答案，符合照顧嬰兒的情境\n\nおどおど: 詞性不符，錯誤選項\n\n思い付き（おもいつき）: 語意完全不相關，錯誤選項"
+},
+{
+"question_id": "3",
+"question": "初めてのスピーチで______してしまい、声が震えた。",
+"choice1_id": "choice1",
+"choice1": "同い年（おないどし）",
+"choice2_id": "choice2",
+"choice2": "おむつ",
+"choice3_id": "choice3",
+"choice3": "おどおど",
+"choice4_id": "choice4",
+"choice4": "思い付き（おもいつき）",
+"correctAnswer": "choice3",
+"hints": "同い年（おないどし）: 與緊張情緒無關\n\nおむつ: 完全無關的詞彙\n\nおどおど: 正確答案，描述緊張不安的狀態\n\n思い付き（おもいつき）: 不符合語境",
+"grammar": "初(はじ)めてのスピーチでおどおどしてしまい、声(こえ)が震(ふる)えた。\n\n同い年（おないどし）: 語意不符，錯誤選項\n\nおむつ: 完全無關情境，錯誤選項\n\nおどおど: 正確答案，形容緊張不安的樣子\n\n思い付き（おもいつき）: 與句子主軸無關，錯誤選項"
+},
+{
+"question_id": "4",
+"question": "彼の提案は単なる______で、深く考えられていないようだ。",
+"choice1_id": "choice1",
+"choice1": "同い年（おないどし）",
+"choice2_id": "choice2",
+"choice2": "おむつ",
+"choice3_id": "choice3",
+"choice3": "おどおど",
+"choice4_id": "choice4",
+"choice4": "思い付き（おもいつき）",
+"correctAnswer": "choice4",
+"hints": "同い年（おないどし）: 與提案內容無關\n\nおむつ: 完全不相關的詞彙\n\nおどおど: 形容詞，無法修飾提案\n\n思い付き（おもいつき）: 正確答案，指未經深思的想法",
+"grammar": "彼(かれ)の提案(ていあん)は単(たん)なる思(おも)い付(つ)きで、深(ふか)く考(かんが)えられていないようだ。\n\n同い年（おないどし）: 語意完全不符，錯誤選項\n\nおむつ: 與上下文無關，錯誤選項\n\nおどおど: 詞性不符，錯誤選項\n\n思い付き（おもいつき）: 正確答案，符合未經深思的語境"
+}
+]
+},
+"status": 0,
+"errMsgs": [],
+"errorInfo": []
 }
