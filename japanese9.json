@@ -332,6 +332,75 @@
 "grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
 }
 
+      ,
+      {
+"question_id": "23",
+"question": "振る舞って",
+"choice1_id": "choice1",
+"choice1": "ふるまって",
+"choice2_id": "choice2",
+"choice2": "になって",
+"choice3_id": "choice3",
+"choice3": "あつかって",
+"choice4_id": "choice4",
+"choice4": "まかなって",
+"correctAnswer": "choice1",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+
+      
+      ,
+      {
+"question_id": "24",
+"question": "成って",
+"choice1_id": "choice1",
+"choice1": "ふるまって",
+"choice2_id": "choice2",
+"choice2": "になって",
+"choice3_id": "choice3",
+"choice3": "あつかって",
+"choice4_id": "choice4",
+"choice4": "まかなって",
+"correctAnswer": "choice2",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+      
+            ,
+      {
+"question_id": "25",
+"question": "扱って",
+"choice1_id": "choice1",
+"choice1": "へだたり",
+"choice2_id": "choice2",
+"choice2": "かたより",
+"choice3_id": "choice3",
+"choice3": "あやまり",
+"choice4_id": "choice4",
+"choice4": "こだわり",
+"correctAnswer": "choice3",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+     ,
+      {
+"question_id": "26",
+"question": "賄って",
+"choice1_id": "choice1",
+"choice1": "へだたり",
+"choice2_id": "choice2",
+"choice2": "かたより",
+"choice3_id": "choice3",
+"choice3": "あやまり",
+"choice4_id": "choice4",
+"choice4": "こだわり",
+"correctAnswer": "choice4",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+
+      
 
     ]
   },
