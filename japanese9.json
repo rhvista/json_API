@@ -3,16 +3,16 @@
     "records": [
       {
         "question_id": "1",
-        "question": "彼は必死に勉強した（　　　）、合格できた。",
+        "question": "説教",
         "choice1_id": "choice1",
-        "choice1": "てこそ",
+        "choice1": "せっきょう",
         "choice2_id": "choice2",
-        "choice2": "こそあれ",
+        "choice2": "ぜっきょう",
         "choice3_id": "choice3",
-        "choice3": "くらいなら",
+        "choice3": "ぜっきゅう",
         "choice4_id": "choice4",
-        "choice4": "からこそ",
-        "correctAnswer": "choice4",
+        "choice4": "せっきゅう",
+        "correctAnswer": "choice1",
         "hints": "てこそ：表示只有在某条件下才成立\nこそあれ：表示转折，相当于“虽然...但是...”\nくらいなら：表示“与其...不如...”\nからこそ：强调原因，表示“正因为...才...”",
         "grammar": "彼(かれ)は必死(ひっし)に勉強(べんきょう)した（　　　）、合格(ごうかく)できた。\n\nてこそ：用于强调条件，但此处需要强调原因，不正确。\n\nこそあれ：表示转折，与句意不符。\n\nくらいなら：表示选择，与句意无关。\n\nからこそ：正确，强调“正因为努力才合格”的因果关系。"
       },
