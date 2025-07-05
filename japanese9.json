@@ -582,6 +582,62 @@
 }
 
 
+         ,
+      {
+"question_id": "38",
+"question": "信教/心境",
+"choice1_id": "choice1",
+"choice1": "しんきょう",
+"choice2_id": "choice2",
+"choice2": "じんこう",
+"choice3_id": "choice3",
+"choice3": "しんこう",
+"choice4_id": "choice4",
+"choice4": "じんきょう",
+"correctAnswer": "choice1",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+
+
+
+         ,
+      {
+"question_id": "39",
+"question": "人工/人口",
+"choice1_id": "choice1",
+"choice1": "しんきょう",
+"choice2_id": "choice2",
+"choice2": "じんこう",
+"choice3_id": "choice3",
+"choice3": "しんこう",
+"choice4_id": "choice4",
+"choice4": "じんきょう",
+"correctAnswer": "choice2",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+
+
+   ,
+      {
+"question_id": "40",
+"question": "進行/信仰",
+"choice1_id": "choice1",
+"choice1": "しんきょう",
+"choice2_id": "choice2",
+"choice2": "じんこう",
+"choice3_id": "choice3",
+"choice3": "しんこう",
+"choice4_id": "choice4",
+"choice4": "じんきょう",
+"correctAnswer": "choice3",
+"hints": "にまで：極端出席者\n\nまでが：範圍終點\n\nにも：添加人物\n\nをも：動作對象",
+"grammar": "儀式(ぎしき)\n王(おう)\n自身(じしん)\n出席(しゅっせき)\n格式(かくしき)\n\n正確答案：にまで - 強調連國王本人都出席\n\nまでが - 不適用人物\n\nにも - 無法表達高貴程度\n\nをも - 不能表示出席主體"
+}
+
+      
+
       
     ]
   },
