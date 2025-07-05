@@ -138,16 +138,16 @@
       },
       {
         "question_id": "10",
-        "question": "この暑さ（　　　）、エアコンなしでは生きられない。",
+        "question": "腐敗/不敗。",
         "choice1_id": "choice1",
-        "choice1": "てこそ",
+        "choice1": "ふはい",
         "choice2_id": "choice2",
-        "choice2": "こそすれ",
+        "choice2": "ふばい",
         "choice3_id": "choice3",
-        "choice3": "くらいなら",
+        "choice3": "ふうはい",
         "choice4_id": "choice4",
-        "choice4": "では",
-        "correctAnswer": "choice4",
+        "choice4": "ふうばい",
+        "correctAnswer": "choice1",
         "hints": "てこそ：强调条件\nこそすれ：表示转折\nくらいなら：表示选择\nでは：表示“在...情况下”",
         "grammar": "この暑(あつ)さ（　　　）、エアコンなしでは生(い)きられない。\n\nてこそ：需接续动词て形，结构不符。\n\nこそすれ：需接续形容词，用法错误。\n\nくらいなら：表示比较，与必要性无关。\n\nでは：正确，表示“在这种炎热情况下”。"
       }
