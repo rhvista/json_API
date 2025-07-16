@@ -116,7 +116,7 @@
     "choice3": "遏制措施可能會因為事件的類別和級別不同而完全不同，常見的遏制措施有；完全關閉所以系統、拔掉網線等",
     "choice4_id": "choice4",
     "choice4": "應按照應急回應計畫中事先制定的業務恢復優先順序和恢復步驟，順次恢復相關的系統",
-    "correctAnswer": null,
+    "correctAnswer": "choice1",
     "hints": null,
     "grammar ": "教材P152,編制管理應急回應計畫才是最重要的 "
   },
