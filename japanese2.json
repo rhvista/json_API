@@ -99,7 +99,7 @@
     "choice2_id": "choice2",
     "choice2": "傳輸層、互聯網路層、網路介面層",
     "choice3_id": "choice3",
-    "choice3": "傳輸層、互聯網路層、網路介面層",
+    "choice3": "互聯網路層、傳輸層、網路介面層",
     "choice4_id": "choice4",
     "choice4": "互聯網路層、網路介面層、傳輸層",
     "correctAnswer": "choice2",
