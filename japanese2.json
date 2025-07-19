@@ -14,7 +14,7 @@
     "choice4": "建立健全資訊安全制度，明確資訊安全風險管理作用，實施資訊安全風險評估過程，確保資訊安全風險評估技術選擇合理、計算正確",
     "correctAnswer": "choice4",
     "hints": null,
-    "grammar ": "D是具體安全工作，應該是IT部門安全崗位的人做 "
+    "grammar": "D是具體安全工作，應該是IT部門安全崗位的人做 "
   },
   {
     "question_id": "2",
@@ -29,7 +29,7 @@
     "choice4": "人與人交往聯繫的社會網路",
     "correctAnswer": "choice3",
     "hints": null,
-    "grammar ": "網路，是指由電腦或者其他資訊終端及相關設備組成的按照一定的規則和程式對資訊進行收集、存儲、傳輸、交換、處理的系統。不僅僅包括傳統IT領域的電腦網路，還包括資訊處理設施及其他軟硬體，是廣義的網路空間，相當於Cyber Space（賽博空間）的概念。從這個解釋看C的答案最接近 "
+    "grammar": "網路，是指由電腦或者其他資訊終端及相關設備組成的按照一定的規則和程式對資訊進行收集、存儲、傳輸、交換、處理的系統。不僅僅包括傳統IT領域的電腦網路，還包括資訊處理設施及其他軟硬體，是廣義的網路空間，相當於Cyber Space（賽博空間）的概念。從這個解釋看C的答案最接近 "
   },
   {
     "question_id": "3",
@@ -44,7 +44,7 @@
     "choice4": "SSE-CMM覆蓋整個組織的活動，包括管理、組織和工程活動等，而不僅僅是系統安全的工程活動",
     "correctAnswer": "choice3",
     "hints": null,
-    "grammar ": "課本P179 "
+    "grammar": "課本P179 "
   },
   {
     "question_id": "4",
@@ -59,7 +59,7 @@
     "choice4": "Biba模型",
     "correctAnswer": "choice1",
     "hints": null,
-    "grammar ": "ACL讀取會更快，例如Unix和VMS系統利用存取控制表的簡略方式允許以少量工作組的形式實現存取控制表而不允許單個的個體出現，這樣可以便存取控制表很小而能夠用幾位元就可以和檔存儲在一起。路由器交換機等網路設備就用ACL來控制訪問 "
+    "grammar": "ACL讀取會更快，例如Unix和VMS系統利用存取控制表的簡略方式允許以少量工作組的形式實現存取控制表而不允許單個的個體出現，這樣可以便存取控制表很小而能夠用幾位元就可以和檔存儲在一起。路由器交換機等網路設備就用ACL來控制訪問 "
   },
   {
     "question_id": "5",
@@ -74,7 +74,7 @@
     "choice4": "抗抵賴性",
     "correctAnswer": "choice2",
     "hints": null,
-    "grammar ": "常識，DDOS破壞可用性 "
+    "grammar": "常識，DDOS破壞可用性 "
   },
   {
     "question_id": "6",
@@ -119,7 +119,7 @@
     "choice4": "防止對資訊的非授權篡改和濫用",
     "correctAnswer": "choice1",
     "hints": null,
-    "grammar ": "常識，安全設計原則中的最小特權原則、許可權分離原則就說明不能給使用者全部許可權 "
+    "grammar": "常識，安全設計原則中的最小特權原則、許可權分離原則就說明不能給使用者全部許可權 "
   },
   {
     "question_id": "9",
@@ -134,7 +134,7 @@
     "choice4": "三級系統",
     "correctAnswer": "choice3",
     "hints": null,
-    "grammar ": "第二章P78 "
+    "grammar": "第二章P78 "
   },
   {
     "question_id": "10",
@@ -164,7 +164,7 @@
     "choice4": "當普通用戶的某些操作涉及特權操作時，仍然通過setuid實現",
     "correctAnswer": "choice2",
     "hints": null,
-    "grammar ": "系統管理員就是超級使用者 "
+    "grammar": "系統管理員就是超級使用者 "
   },
   {
     "question_id": "12",
@@ -179,7 +179,7 @@
     "choice4": "180萬",
     "correctAnswer": "choice3",
     "hints": null,
-    "grammar ": "ALE=AV*EF*ARO=400*0.25*0.2=20 "
+    "grammar": "ALE=AV*EF*ARO=400*0.25*0.2=20 "
   },
   {
     "question_id": "13",
@@ -209,7 +209,7 @@
     "choice4": "規劃組織，生命週期和運行維護",
     "correctAnswer": "choice2",
     "hints": null,
-    "grammar ": "教材P34 "
+    "grammar": "教材P34 "
   },
   {
     "question_id": "15",
@@ -224,7 +224,7 @@
     "choice4": "背景建立階段應分析資訊系統的體系結構和關鍵要素，分析資訊系統的安全環境和要求，形成資訊系統的安全要求報告",
     "correctAnswer": "choice2",
     "hints": null,
-    "grammar ": "這個選項是風險評估風險要素識別的內容 "
+    "grammar": "這個選項是風險評估風險要素識別的內容 "
   },
   {
     "question_id": "16",
@@ -239,7 +239,7 @@
     "choice4": "實施內部審核”是保護和改進ISMS階段工作內容",
     "correctAnswer": "choice4",
     "hints": null,
-    "grammar ": " "
+    "grammar": " "
   },
   {
     "question_id": "17",
@@ -269,7 +269,7 @@
     "choice4": "控制和對抗：動態性：漏洞監測：網路安全",
     "correctAnswer": "choice4",
     "hints": null,
-    "grammar ": "保障章節 "
+    "grammar": "保障章節 "
   },
   {
     "question_id": "19",
@@ -284,7 +284,7 @@
     "choice4": "設立入侵防禦系統",
     "correctAnswer": "choice1",
     "hints": null,
-    "grammar ": "VLAN技術的出現，就是為了解決交換機在進行局域網互連時無法限制廣播的問題。這種技術可以把一個LAN劃分多個邏輯的LAN——VLAN，每個VLAN是一個廣播域，不同VLAN間的設備不能直接互通，只能通過路由器等三層設備而互通。這樣，廣播資料幀被限制在一個VLAN內。 "
+    "grammar": "VLAN技術的出現，就是為了解決交換機在進行局域網互連時無法限制廣播的問題。這種技術可以把一個LAN劃分多個邏輯的LAN——VLAN，每個VLAN是一個廣播域，不同VLAN間的設備不能直接互通，只能通過路由器等三層設備而互通。這樣，廣播資料幀被限制在一個VLAN內。 "
   },
   {
     "question_id": "20",
